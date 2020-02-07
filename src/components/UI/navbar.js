@@ -24,7 +24,7 @@ const useStyles = makeStyles(theme => ({
         padding: theme.spacing(2)
     },
     highlight: {
-        backgroundColor: theme.palette.primary.main
+        backgroundColor: theme.palette.primary.light
     },
     sp1: {
         marginRight: theme.spacing(1)
@@ -39,7 +39,7 @@ const NavBar = (props) => {
         className={cl.appbar}
         >
             <Toolbar>
-                <Button disabled variant="contained" size="small">
+                <Button disableRipple variant="contained" size="small">
                         <BrandIcon className={cl.sp1}/>
                     <Typography>ivec-console</Typography>
                 </Button>
