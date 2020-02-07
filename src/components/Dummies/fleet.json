@@ -1,0 +1,3915 @@
+{
+    "VIM-1": {
+      "expiry_date": "7-Jan-43",
+      "g": "ttntmwf8mg",
+      "km": 24.82506355,
+      "l": [
+        29.08499274,
+        76.88600879
+      ],
+      "manufacture_date": "4-Aug-19",
+      "on_road_since": "5-Dec-19",
+      "soc": 69.4529537,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-100": {
+      "expiry_date": "23-May-41",
+      "g": "ttp1bv4x7d",
+      "km": 92.4714616,
+      "l": [
+        28.46134078,
+        77.38029552
+      ],
+      "manufacture_date": "27-Nov-19",
+      "on_road_since": "30-Dec-19",
+      "soc": 79.88104039,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-101": {
+      "expiry_date": "28-Oct-44",
+      "g": "ttncx48235",
+      "km": 88.75955823,
+      "l": [
+        28.40246696,
+        77.3001942
+      ],
+      "manufacture_date": "5-Jan-20",
+      "on_road_since": "24-Jan-20",
+      "soc": 78.47987633,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-102": {
+      "expiry_date": "16-Oct-40",
+      "g": "ttpj5r50jj",
+      "km": 12.79720125,
+      "l": [
+        29.04238974,
+        77.49091427
+      ],
+      "manufacture_date": "14-Jan-20",
+      "on_road_since": "28-Jan-20",
+      "soc": 76.92725733,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-103": {
+      "expiry_date": "19-May-43",
+      "g": "ttnds6r5qy",
+      "km": 79.01156394,
+      "l": [
+        28.57740414,
+        76.83730482
+      ],
+      "manufacture_date": "26-Sep-19",
+      "on_road_since": "29-Dec-19",
+      "soc": 80.62215938,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-104": {
+      "expiry_date": "17-Dec-42",
+      "g": "ttntnt5epp",
+      "km": 24.52298836,
+      "l": [
+        29.03192703,
+        76.93137728
+      ],
+      "manufacture_date": "1-Jan-20",
+      "on_road_since": "9-Jan-20",
+      "soc": 69.73932996,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-105": {
+      "expiry_date": "13-Jan-44",
+      "g": "ttphb054y8",
+      "km": 13.66667118,
+      "l": [
+        28.9604362,
+        77.34815659
+      ],
+      "manufacture_date": "3-Sep-19",
+      "on_road_since": "5-Jan-20",
+      "soc": 71.72070757,
+      "vendor": "Qquick"
+    },
+    "VIM-106": {
+      "expiry_date": "25-Feb-43",
+      "g": "ttnsp252dj",
+      "km": 26.11649041,
+      "l": [
+        28.82823944,
+        76.96378659
+      ],
+      "manufacture_date": "7-Jan-20",
+      "on_road_since": "4-Dec-19",
+      "soc": 71.17284231,
+      "vendor": "Qquick"
+    },
+    "VIM-107": {
+      "expiry_date": "5-May-44",
+      "g": "ttnvqzyk45",
+      "km": 92.81941655,
+      "l": [
+        29.09112793,
+        77.29748867
+      ],
+      "manufacture_date": "17-Aug-19",
+      "on_road_since": "31-Jan-20",
+      "soc": 80.51166333,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-108": {
+      "expiry_date": "28-Aug-41",
+      "g": "ttnsxwf04e",
+      "km": 34.27448333,
+      "l": [
+        28.95311402,
+        76.97307538
+      ],
+      "manufacture_date": "18-Jan-20",
+      "on_road_since": "2-Jan-20",
+      "soc": 76.7222185,
+      "vendor": "Bounce Share"
+    },
+    "VIM-109": {
+      "expiry_date": "16-Jan-45",
+      "g": "ttndqc3ypc",
+      "km": 71.76800242,
+      "l": [
+        28.5284142,
+        76.93999881
+      ],
+      "manufacture_date": "13-Sep-19",
+      "on_road_since": "20-Jan-20",
+      "soc": 76.44781421,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-11": {
+      "expiry_date": "28-Feb-42",
+      "g": "ttntnmc35q",
+      "km": 86.96236511,
+      "l": [
+        29.03570077,
+        76.91714218
+      ],
+      "manufacture_date": "22-Jan-20",
+      "on_road_since": "25-Jan-20",
+      "soc": 74.37753412,
+      "vendor": "Qquick"
+    },
+    "VIM-110": {
+      "expiry_date": "26-May-41",
+      "g": "ttnshk8tu5",
+      "km": 13.3103223,
+      "l": [
+        28.85385143,
+        76.82825712
+      ],
+      "manufacture_date": "17-Sep-19",
+      "on_road_since": "27-Jan-20",
+      "soc": 78.6117127,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-111": {
+      "expiry_date": "28-Jul-44",
+      "g": "ttncc417n9",
+      "km": 91.45917422,
+      "l": [
+        28.44412639,
+        77.03813668
+      ],
+      "manufacture_date": "28-Jan-20",
+      "on_road_since": "16-Dec-19",
+      "soc": 72.31240867,
+      "vendor": "Campus Share"
+    },
+    "VIM-112": {
+      "expiry_date": "2-May-43",
+      "g": "ttnct4sg5h",
+      "km": 22.38086882,
+      "l": [
+        28.40294283,
+        77.21857314
+      ],
+      "manufacture_date": "21-Nov-19",
+      "on_road_since": "7-Jan-20",
+      "soc": 81.51842812,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-113": {
+      "expiry_date": "20-Feb-44",
+      "g": "ttnefb7yv9",
+      "km": 18.45591104,
+      "l": [
+        28.78671731,
+        76.76686873
+      ],
+      "manufacture_date": "25-Aug-19",
+      "on_road_since": "10-Dec-19",
+      "soc": 71.26410135,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-114": {
+      "expiry_date": "18-Jul-41",
+      "g": "ttnczp8z13",
+      "km": 56.87578602,
+      "l": [
+        28.47502441,
+        77.30088892
+      ],
+      "manufacture_date": "30-Aug-19",
+      "on_road_since": "14-Jan-20",
+      "soc": 69.13141151,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-115": {
+      "expiry_date": "31-May-41",
+      "g": "ttp52npb5z",
+      "km": 35.47346317,
+      "l": [
+        28.72928925,
+        77.35455611
+      ],
+      "manufacture_date": "20-Sep-19",
+      "on_road_since": "19-Dec-19",
+      "soc": 70.11375826,
+      "vendor": "Vogo"
+    },
+    "VIM-116": {
+      "expiry_date": "3-May-42",
+      "g": "ttnezbydyj",
+      "km": 9.476200116,
+      "l": [
+        28.78879963,
+        76.99039142
+      ],
+      "manufacture_date": "18-Dec-19",
+      "on_road_since": "3-Dec-19",
+      "soc": 80.21597813,
+      "vendor": "Bounce Share"
+    },
+    "VIM-117": {
+      "expiry_date": "26-Dec-44",
+      "g": "ttnskhw4v2",
+      "km": 7.210758068,
+      "l": [
+        28.89726532,
+        76.82487238
+      ],
+      "manufacture_date": "22-Jan-20",
+      "on_road_since": "7-Jan-20",
+      "soc": 80.85631841,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-118": {
+      "expiry_date": "25-Nov-43",
+      "g": "ttngt72r75",
+      "km": 85.44376189,
+      "l": [
+        28.75934938,
+        77.22337434
+      ],
+      "manufacture_date": "31-Dec-19",
+      "on_road_since": "11-Dec-19",
+      "soc": 77.61681916,
+      "vendor": "Qquick"
+    },
+    "VIM-119": {
+      "expiry_date": "13-Dec-42",
+      "g": "ttphfxpjx4",
+      "km": 66.87115642,
+      "l": [
+        28.99936882,
+        77.4635312
+      ],
+      "manufacture_date": "6-Nov-19",
+      "on_road_since": "6-Jan-20",
+      "soc": 74.50468138,
+      "vendor": "Qquick"
+    },
+    "VIM-12": {
+      "expiry_date": "30-Mar-44",
+      "g": "ttns76gksq",
+      "km": 70.54747425,
+      "l": [
+        28.88798335,
+        76.78810044
+      ],
+      "manufacture_date": "26-Dec-19",
+      "on_road_since": "13-Dec-19",
+      "soc": 81.81572073,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-120": {
+      "expiry_date": "3-Apr-43",
+      "g": "ttn9syywe6",
+      "km": 22.83223761,
+      "l": [
+        28.4268793,
+        76.85843718
+      ],
+      "manufacture_date": "5-Nov-19",
+      "on_road_since": "11-Dec-19",
+      "soc": 81.51927898,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-122": {
+      "expiry_date": "15-Jun-44",
+      "g": "ttnuhmsgw4",
+      "km": 91.52875954,
+      "l": [
+        28.85895046,
+        77.18573869
+      ],
+      "manufacture_date": "15-Sep-19",
+      "on_road_since": "23-Jan-20",
+      "soc": 73.39524569,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-123": {
+      "expiry_date": "6-Nov-43",
+      "g": "ttphbn56bj",
+      "km": 71.32039218,
+      "l": [
+        28.99342151,
+        77.34821934
+      ],
+      "manufacture_date": "28-Jan-20",
+      "on_road_since": "12-Dec-19",
+      "soc": 75.9119235,
+      "vendor": "Vogo"
+    },
+    "VIM-124": {
+      "expiry_date": "15-Sep-41",
+      "g": "ttp52s8puh",
+      "km": 76.7531582,
+      "l": [
+        28.72236147,
+        77.36589854
+      ],
+      "manufacture_date": "22-Dec-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 77.04937848,
+      "vendor": "Campus Share"
+    },
+    "VIM-125": {
+      "expiry_date": "29-Jan-43",
+      "g": "ttpj5mzd5n",
+      "km": 77.63095776,
+      "l": [
+        29.03587072,
+        77.49701079
+      ],
+      "manufacture_date": "14-Dec-19",
+      "on_road_since": "1-Feb-20",
+      "soc": 70.28945462,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-126": {
+      "expiry_date": "28-Oct-44",
+      "g": "ttnuh46m2g",
+      "km": 50.68483908,
+      "l": [
+        28.84140534,
+        77.17109585
+      ],
+      "manufacture_date": "22-Dec-19",
+      "on_road_since": "12-Jan-20",
+      "soc": 77.8532666,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-127": {
+      "expiry_date": "8-Feb-42",
+      "g": "ttnf25wxtq",
+      "km": 90.78420812,
+      "l": [
+        28.54105826,
+        77.00134127
+      ],
+      "manufacture_date": "16-Dec-19",
+      "on_road_since": "13-Jan-20",
+      "soc": 71.28227001,
+      "vendor": "Qquick"
+    },
+    "VIM-128": {
+      "expiry_date": "24-Jan-44",
+      "g": "ttne4v3kyg",
+      "km": 87.49248759,
+      "l": [
+        28.68201829,
+        76.76348332
+      ],
+      "manufacture_date": "29-Sep-19",
+      "on_road_since": "19-Jan-20",
+      "soc": 75.33226165,
+      "vendor": "Campus Share"
+    },
+    "VIM-129": {
+      "expiry_date": "18-Nov-40",
+      "g": "ttp43s49kr",
+      "km": 22.64620294,
+      "l": [
+        28.54273267,
+        77.41328918
+      ],
+      "manufacture_date": "13-Aug-19",
+      "on_road_since": "17-Jan-20",
+      "soc": 73.31955232,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-13": {
+      "expiry_date": "12-Apr-41",
+      "g": "ttnsjj34wp",
+      "km": 36.96292282,
+      "l": [
+        28.85743437,
+        76.86198739
+      ],
+      "manufacture_date": "18-Aug-19",
+      "on_road_since": "17-Jan-20",
+      "soc": 77.39735694,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-130": {
+      "expiry_date": "2-Feb-41",
+      "g": "ttp527f8uu",
+      "km": 4.905617896,
+      "l": [
+        28.71703884,
+        77.35838081
+      ],
+      "manufacture_date": "24-Dec-19",
+      "on_road_since": "7-Dec-19",
+      "soc": 81.7827103,
+      "vendor": "Campus Share"
+    },
+    "VIM-131": {
+      "expiry_date": "4-Dec-44",
+      "g": "ttnfbppp58",
+      "km": 71.527795,
+      "l": [
+        28.64805277,
+        77.0019527
+      ],
+      "manufacture_date": "4-Sep-19",
+      "on_road_since": "28-Dec-19",
+      "soc": 78.78502008,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-132": {
+      "expiry_date": "3-Sep-42",
+      "g": "ttnu7pqf03",
+      "km": 83.06744729,
+      "l": [
+        28.91224932,
+        77.13331229
+      ],
+      "manufacture_date": "5-Sep-19",
+      "on_road_since": "15-Jan-20",
+      "soc": 81.28380755,
+      "vendor": "Bounce Share"
+    },
+    "VIM-133": {
+      "expiry_date": "21-May-44",
+      "g": "ttnt53pcv8",
+      "km": 27.77955798,
+      "l": [
+        29.00970136,
+        76.79433086
+      ],
+      "manufacture_date": "24-Aug-19",
+      "on_road_since": "28-Jan-20",
+      "soc": 70.99909352,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-134": {
+      "expiry_date": "28-Dec-42",
+      "g": "ttnsh5yw1b",
+      "km": 29.70788326,
+      "l": [
+        28.8497551,
+        76.8254098
+      ],
+      "manufacture_date": "19-Nov-19",
+      "on_road_since": "2-Jan-20",
+      "soc": 76.58612226,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-135": {
+      "expiry_date": "31-Mar-44",
+      "g": "ttnszdjfd9",
+      "km": 31.77034783,
+      "l": [
+        28.97138542,
+        76.97822759
+      ],
+      "manufacture_date": "9-Oct-19",
+      "on_road_since": "3-Jan-20",
+      "soc": 71.93642882,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-136": {
+      "expiry_date": "1-Dec-42",
+      "g": "ttngnvfy6p",
+      "km": 66.29598066,
+      "l": [
+        28.68504328,
+        77.29268574
+      ],
+      "manufacture_date": "23-Aug-19",
+      "on_road_since": "1-Dec-19",
+      "soc": 77.53848678,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-137": {
+      "expiry_date": "10-Jul-43",
+      "g": "ttng6zgf5c",
+      "km": 35.84816411,
+      "l": [
+        28.73921293,
+        77.11834871
+      ],
+      "manufacture_date": "18-Aug-19",
+      "on_road_since": "15-Jan-20",
+      "soc": 78.99287662,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-138": {
+      "expiry_date": "14-Jan-43",
+      "g": "ttng84rr51",
+      "km": 12.69537767,
+      "l": [
+        28.75380497,
+        77.00227413
+      ],
+      "manufacture_date": "7-Jan-20",
+      "on_road_since": "1-Jan-20",
+      "soc": 75.88375078,
+      "vendor": "Campus Share"
+    },
+    "VIM-139": {
+      "expiry_date": "4-Apr-41",
+      "g": "ttnexz1gg3",
+      "km": 62.49115301,
+      "l": [
+        28.77934056,
+        76.98375379
+      ],
+      "manufacture_date": "12-Oct-19",
+      "on_road_since": "20-Jan-20",
+      "soc": 77.51543577,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-14": {
+      "expiry_date": "23-Sep-40",
+      "g": "ttpj2118fb",
+      "km": 69.90553167,
+      "l": [
+        29.05347756,
+        77.34592869
+      ],
+      "manufacture_date": "8-Aug-19",
+      "on_road_since": "23-Jan-20",
+      "soc": 71.29338827,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-140": {
+      "expiry_date": "4-Dec-43",
+      "g": "ttnf75vqfm",
+      "km": 26.75395739,
+      "l": [
+        28.5422942,
+        77.13133336
+      ],
+      "manufacture_date": "7-Nov-19",
+      "on_road_since": "17-Jan-20",
+      "soc": 75.51193058,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-141": {
+      "expiry_date": "4-Dec-44",
+      "g": "ttndnvc3w8",
+      "km": 81.00728354,
+      "l": [
+        28.50841089,
+        76.93925614
+      ],
+      "manufacture_date": "8-Sep-19",
+      "on_road_since": "15-Jan-20",
+      "soc": 70.47885011,
+      "vendor": "Campus Share"
+    },
+    "VIM-142": {
+      "expiry_date": "18-Mar-44",
+      "g": "ttnf8ew8rs",
+      "km": 29.74621354,
+      "l": [
+        28.58374772,
+        77.02341473
+      ],
+      "manufacture_date": "9-Aug-19",
+      "on_road_since": "13-Jan-20",
+      "soc": 71.10719039,
+      "vendor": "Vogo"
+    },
+    "VIM-143": {
+      "expiry_date": "12-Jan-45",
+      "g": "ttp47edmd3",
+      "km": 0.55069304,
+      "l": [
+        28.54068696,
+        77.50075356
+      ],
+      "manufacture_date": "9-Dec-19",
+      "on_road_since": "23-Jan-20",
+      "soc": 80.20054755,
+      "vendor": "Qquick"
+    },
+    "VIM-144": {
+      "expiry_date": "25-Feb-42",
+      "g": "ttn9y3evkz",
+      "km": 60.93654854,
+      "l": [
+        28.441796,
+        76.92063955
+      ],
+      "manufacture_date": "21-Sep-19",
+      "on_road_since": "20-Dec-19",
+      "soc": 75.71283065,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-145": {
+      "expiry_date": "8-Dec-41",
+      "g": "ttneqg8q15",
+      "km": 71.30165872,
+      "l": [
+        28.71656552,
+        76.93764334
+      ],
+      "manufacture_date": "18-Nov-19",
+      "on_road_since": "9-Jan-20",
+      "soc": 70.27474561,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-146": {
+      "expiry_date": "7-Nov-44",
+      "g": "ttnckr8u2x",
+      "km": 58.82685018,
+      "l": [
+        28.38669329,
+        77.18001554
+      ],
+      "manufacture_date": "7-Nov-19",
+      "on_road_since": "14-Jan-20",
+      "soc": 73.41182783,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-147": {
+      "expiry_date": "4-Nov-40",
+      "g": "ttpj3rr2bz",
+      "km": 8.121924963,
+      "l": [
+        29.08784395,
+        77.40867904
+      ],
+      "manufacture_date": "26-Oct-19",
+      "on_road_since": "1-Dec-19",
+      "soc": 79.55179975,
+      "vendor": "Vogo"
+    },
+    "VIM-148": {
+      "expiry_date": "18-Sep-43",
+      "g": "ttnsmy70x7",
+      "km": 86.60223349,
+      "l": [
+        28.90650618,
+        76.89774282
+      ],
+      "manufacture_date": "1-Oct-19",
+      "on_road_since": "1-Feb-20",
+      "soc": 81.92539308,
+      "vendor": "Vogo"
+    },
+    "VIM-149": {
+      "expiry_date": "17-Aug-43",
+      "g": "ttng7bscxb",
+      "km": 55.64873634,
+      "l": [
+        28.69929761,
+        77.16384331
+      ],
+      "manufacture_date": "16-Dec-19",
+      "on_road_since": "26-Dec-19",
+      "soc": 76.03548871,
+      "vendor": "Vogo"
+    },
+    "VIM-15": {
+      "expiry_date": "21-Apr-43",
+      "g": "ttngp29qdx",
+      "km": 68.32729405,
+      "l": [
+        28.65624695,
+        77.31262346
+      ],
+      "manufacture_date": "4-Sep-19",
+      "on_road_since": "6-Dec-19",
+      "soc": 70.41138473,
+      "vendor": "Vogo"
+    },
+    "VIM-150": {
+      "expiry_date": "20-May-42",
+      "g": "ttng6gfp8p",
+      "km": 44.32635349,
+      "l": [
+        28.71821721,
+        77.1157849
+      ],
+      "manufacture_date": "1-Oct-19",
+      "on_road_since": "23-Dec-19",
+      "soc": 70.01243948,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-151": {
+      "expiry_date": "23-Oct-44",
+      "g": "ttntmy46c3",
+      "km": 23.9759032,
+      "l": [
+        29.08129051,
+        76.8964554
+      ],
+      "manufacture_date": "31-Jan-20",
+      "on_road_since": "24-Jan-20",
+      "soc": 81.01206733,
+      "vendor": "Bounce Share"
+    },
+    "VIM-152": {
+      "expiry_date": "23-Jul-44",
+      "g": "ttnsufwdej",
+      "km": 39.01865307,
+      "l": [
+        28.9741551,
+        76.85842861
+      ],
+      "manufacture_date": "27-Sep-19",
+      "on_road_since": "31-Dec-19",
+      "soc": 72.6069144,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-153": {
+      "expiry_date": "12-Apr-42",
+      "g": "ttnc6f21js",
+      "km": 96.85256882,
+      "l": [
+        28.35728276,
+        77.11327804
+      ],
+      "manufacture_date": "28-Aug-19",
+      "on_road_since": "17-Jan-20",
+      "soc": 71.70924804,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-154": {
+      "expiry_date": "13-Apr-44",
+      "g": "ttnv7vd0j8",
+      "km": 56.85671996,
+      "l": [
+        29.0780657,
+        77.15997262
+      ],
+      "manufacture_date": "28-Dec-19",
+      "on_road_since": "27-Dec-19",
+      "soc": 69.86774201,
+      "vendor": "Qquick"
+    },
+    "VIM-155": {
+      "expiry_date": "29-Aug-40",
+      "g": "ttnd9cqf5h",
+      "km": 95.92494713,
+      "l": [
+        28.57168789,
+        76.72693584
+      ],
+      "manufacture_date": "31-Oct-19",
+      "on_road_since": "7-Jan-20",
+      "soc": 73.20286836,
+      "vendor": "Campus Share"
+    },
+    "VIM-156": {
+      "expiry_date": "25-Oct-41",
+      "g": "ttnsgye2q8",
+      "km": 62.86923791,
+      "l": [
+        28.99571177,
+        76.81016576
+      ],
+      "manufacture_date": "9-Sep-19",
+      "on_road_since": "8-Dec-19",
+      "soc": 73.4115325,
+      "vendor": "Qquick"
+    },
+    "VIM-157": {
+      "expiry_date": "7-Jul-42",
+      "g": "ttn9tshy5t",
+      "km": 42.89714262,
+      "l": [
+        28.41170501,
+        76.88900815
+      ],
+      "manufacture_date": "27-Dec-19",
+      "on_road_since": "7-Dec-19",
+      "soc": 77.89344933,
+      "vendor": "Qquick"
+    },
+    "VIM-158": {
+      "expiry_date": "29-Apr-44",
+      "g": "ttnu2g059m",
+      "km": 45.26194465,
+      "l": [
+        28.8891793,
+        77.02520226
+      ],
+      "manufacture_date": "18-Sep-19",
+      "on_road_since": "10-Jan-20",
+      "soc": 71.82642876,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-159": {
+      "expiry_date": "19-Aug-42",
+      "g": "ttnduuxk61",
+      "km": 3.149613608,
+      "l": [
+        28.63385673,
+        76.85941031
+      ],
+      "manufacture_date": "16-Dec-19",
+      "on_road_since": "21-Dec-19",
+      "soc": 71.2688154,
+      "vendor": "Qquick"
+    },
+    "VIM-16": {
+      "expiry_date": "22-Oct-43",
+      "g": "ttnuvstbmv",
+      "km": 14.60953189,
+      "l": [
+        28.98475092,
+        77.24203199
+      ],
+      "manufacture_date": "8-Jan-20",
+      "on_road_since": "30-Jan-20",
+      "soc": 77.62728663,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-160": {
+      "expiry_date": "3-Mar-42",
+      "g": "ttntrc5vgq",
+      "km": 14.32444756,
+      "l": [
+        29.05436639,
+        76.98649173
+      ],
+      "manufacture_date": "5-Jan-20",
+      "on_road_since": "25-Jan-20",
+      "soc": 70.09032292,
+      "vendor": "Qquick"
+    },
+    "VIM-161": {
+      "expiry_date": "9-May-43",
+      "g": "ttnfwbpkgt",
+      "km": 69.64236393,
+      "l": [
+        28.56529666,
+        77.29892634
+      ],
+      "manufacture_date": "25-Aug-19",
+      "on_road_since": "19-Dec-19",
+      "soc": 77.70242975,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-162": {
+      "expiry_date": "10-Nov-41",
+      "g": "ttph7395r7",
+      "km": 1.410573983,
+      "l": [
+        28.88088823,
+        77.48825735
+      ],
+      "manufacture_date": "25-Sep-19",
+      "on_road_since": "30-Jan-20",
+      "soc": 75.4991863,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-163": {
+      "expiry_date": "15-May-42",
+      "g": "ttnfnyp7u0",
+      "km": 42.15400429,
+      "l": [
+        28.51016615,
+        77.29895617
+      ],
+      "manufacture_date": "23-Dec-19",
+      "on_road_since": "1-Dec-19",
+      "soc": 81.14998434,
+      "vendor": "Qquick"
+    },
+    "VIM-164": {
+      "expiry_date": "14-Feb-44",
+      "g": "ttn9v9sn27",
+      "km": 3.176792788,
+      "l": [
+        28.44194771,
+        76.88783458
+      ],
+      "manufacture_date": "6-Dec-19",
+      "on_road_since": "4-Dec-19",
+      "soc": 74.01844034,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-165": {
+      "expiry_date": "3-Jan-43",
+      "g": "ttpj195cfw",
+      "km": 59.26936154,
+      "l": [
+        29.00973328,
+        77.41493225
+      ],
+      "manufacture_date": "6-Oct-19",
+      "on_road_since": "28-Jan-20",
+      "soc": 78.96479814,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-166": {
+      "expiry_date": "30-Jun-43",
+      "g": "ttnv0hhyck",
+      "km": 64.909527,
+      "l": [
+        29.0270597,
+        76.99876509
+      ],
+      "manufacture_date": "15-Dec-19",
+      "on_road_since": "12-Jan-20",
+      "soc": 76.94279292,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-167": {
+      "expiry_date": "2-Feb-44",
+      "g": "ttnf1wcsj5",
+      "km": 52.96954441,
+      "l": [
+        28.51434506,
+        77.06038192
+      ],
+      "manufacture_date": "4-Oct-19",
+      "on_road_since": "8-Jan-20",
+      "soc": 76.09035126,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-168": {
+      "expiry_date": "23-Aug-43",
+      "g": "ttn9xc7eeb",
+      "km": 69.04304042,
+      "l": [
+        28.39613929,
+        76.98617763
+      ],
+      "manufacture_date": "2-Jan-20",
+      "on_road_since": "31-Dec-19",
+      "soc": 75.24574956,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-169": {
+      "expiry_date": "12-Feb-42",
+      "g": "ttngbw1hdg",
+      "km": 54.95507184,
+      "l": [
+        28.81792942,
+        77.01565161
+      ],
+      "manufacture_date": "4-Dec-19",
+      "on_road_since": "24-Dec-19",
+      "soc": 80.83157603,
+      "vendor": "Vogo"
+    },
+    "VIM-17": {
+      "expiry_date": "17-Nov-40",
+      "g": "ttph6z6xd3",
+      "km": 66.5758702,
+      "l": [
+        28.91319137,
+        77.46813351
+      ],
+      "manufacture_date": "23-Nov-19",
+      "on_road_since": "30-Dec-19",
+      "soc": 81.87364919,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-170": {
+      "expiry_date": "13-Feb-44",
+      "g": "ttnsk6zqup",
+      "km": 67.88757163,
+      "l": [
+        28.88837718,
+        76.83752399
+      ],
+      "manufacture_date": "8-Nov-19",
+      "on_road_since": "26-Dec-19",
+      "soc": 70.06912092,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-171": {
+      "expiry_date": "17-Oct-43",
+      "g": "ttng4wgk7c",
+      "km": 80.79716367,
+      "l": [
+        28.69015961,
+        77.10667939
+      ],
+      "manufacture_date": "10-Dec-19",
+      "on_road_since": "27-Jan-20",
+      "soc": 75.7769054,
+      "vendor": "Qquick"
+    },
+    "VIM-172": {
+      "expiry_date": "9-May-42",
+      "g": "ttp1cqn9mx",
+      "km": 31.75668259,
+      "l": [
+        28.46583304,
+        77.40784481
+      ],
+      "manufacture_date": "12-Oct-19",
+      "on_road_since": "15-Dec-19",
+      "soc": 78.93050853,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-173": {
+      "expiry_date": "12-Dec-43",
+      "g": "ttnsmm48ev",
+      "km": 90.45111821,
+      "l": [
+        28.89964908,
+        76.87493425
+      ],
+      "manufacture_date": "14-Dec-19",
+      "on_road_since": "16-Jan-20",
+      "soc": 80.38037754,
+      "vendor": "Campus Share"
+    },
+    "VIM-174": {
+      "expiry_date": "11-Oct-43",
+      "g": "ttnehu9d7j",
+      "km": 23.52463767,
+      "l": [
+        28.67747795,
+        76.85155884
+      ],
+      "manufacture_date": "2-Sep-19",
+      "on_road_since": "21-Jan-20",
+      "soc": 70.68007992,
+      "vendor": "Campus Share"
+    },
+    "VIM-175": {
+      "expiry_date": "22-Sep-42",
+      "g": "ttnc78mnzj",
+      "km": 9.041567748,
+      "l": [
+        28.34728696,
+        77.15317046
+      ],
+      "manufacture_date": "15-Dec-19",
+      "on_road_since": "1-Jan-20",
+      "soc": 71.33075052,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-176": {
+      "expiry_date": "10-Aug-42",
+      "g": "ttncw02zbd",
+      "km": 27.15550752,
+      "l": [
+        28.39138892,
+        77.25691804
+      ],
+      "manufacture_date": "11-Dec-19",
+      "on_road_since": "1-Dec-19",
+      "soc": 81.19881994,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-177": {
+      "expiry_date": "10-Sep-44",
+      "g": "ttndxy8c2v",
+      "km": 29.85764747,
+      "l": [
+        28.60040321,
+        76.98226542
+      ],
+      "manufacture_date": "20-Nov-19",
+      "on_road_since": "12-Dec-19",
+      "soc": 70.16416191,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-178": {
+      "expiry_date": "23-Aug-43",
+      "g": "ttnsm90vge",
+      "km": 95.97405315,
+      "l": [
+        28.87856697,
+        76.88351473
+      ],
+      "manufacture_date": "31-Aug-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 80.13049423,
+      "vendor": "Bounce Share"
+    },
+    "VIM-179": {
+      "expiry_date": "28-Aug-41",
+      "g": "ttnck6j975",
+      "km": 86.39586049,
+      "l": [
+        28.35594833,
+        77.1866399
+      ],
+      "manufacture_date": "30-Oct-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 80.5676367,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-18": {
+      "expiry_date": "20-Jun-44",
+      "g": "ttng0zdrt1",
+      "km": 15.81112093,
+      "l": [
+        28.69483894,
+        77.02845581
+      ],
+      "manufacture_date": "10-Aug-19",
+      "on_road_since": "3-Dec-19",
+      "soc": 70.69397809,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-180": {
+      "expiry_date": "23-Dec-44",
+      "g": "ttp1b4x3f0",
+      "km": 47.82821499,
+      "l": [
+        28.44665187,
+        77.35379645
+      ],
+      "manufacture_date": "9-Dec-19",
+      "on_road_since": "4-Dec-19",
+      "soc": 77.68674966,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-181": {
+      "expiry_date": "13-Mar-42",
+      "g": "ttnudh4cmh",
+      "km": 87.1585178,
+      "l": [
+        28.93822478,
+        77.08407504
+      ],
+      "manufacture_date": "7-Sep-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 69.34955241,
+      "vendor": "Vogo"
+    },
+    "VIM-182": {
+      "expiry_date": "25-May-44",
+      "g": "ttn9wtfmyt",
+      "km": 6.98359979,
+      "l": [
+        28.42127146,
+        76.92964071
+      ],
+      "manufacture_date": "2-Oct-19",
+      "on_road_since": "16-Dec-19",
+      "soc": 75.73286213,
+      "vendor": "Bounce Share"
+    },
+    "VIM-183": {
+      "expiry_date": "27-Apr-42",
+      "g": "ttp128h28m",
+      "km": 70.79011322,
+      "l": [
+        28.34483941,
+        77.37157044
+      ],
+      "manufacture_date": "24-Dec-19",
+      "on_road_since": "12-Jan-20",
+      "soc": 77.48452062,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-184": {
+      "expiry_date": "29-Sep-40",
+      "g": "ttn9k67u26",
+      "km": 81.98871462,
+      "l": [
+        28.35782861,
+        76.83255419
+      ],
+      "manufacture_date": "23-Aug-19",
+      "on_road_since": "31-Dec-19",
+      "soc": 72.27533731,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-185": {
+      "expiry_date": "18-Dec-44",
+      "g": "ttnuq3dbep",
+      "km": 43.42308002,
+      "l": [
+        28.88043642,
+        77.27075717
+      ],
+      "manufacture_date": "15-Nov-19",
+      "on_road_since": "16-Dec-19",
+      "soc": 77.34252967,
+      "vendor": "Campus Share"
+    },
+    "VIM-186": {
+      "expiry_date": "3-Jun-44",
+      "g": "ttp1grs0b2",
+      "km": 74.37324571,
+      "l": [
+        28.47394561,
+        77.49208022
+      ],
+      "manufacture_date": "18-Sep-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 72.97657572,
+      "vendor": "Bounce Share"
+    },
+    "VIM-187": {
+      "expiry_date": "26-Jul-43",
+      "g": "ttnt5kk6u2",
+      "km": 16.22867943,
+      "l": [
+        29.02772437,
+        76.78946651
+      ],
+      "manufacture_date": "24-Dec-19",
+      "on_road_since": "29-Jan-20",
+      "soc": 71.39699755,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-188": {
+      "expiry_date": "1-Nov-43",
+      "g": "ttncx0xydp",
+      "km": 15.07477816,
+      "l": [
+        28.39257329,
+        77.31053781
+      ],
+      "manufacture_date": "10-Oct-19",
+      "on_road_since": "13-Jan-20",
+      "soc": 77.78604369,
+      "vendor": "Bounce Share"
+    },
+    "VIM-189": {
+      "expiry_date": "8-Sep-44",
+      "g": "ttnufv3s5p",
+      "km": 61.02385736,
+      "l": [
+        28.98952905,
+        77.11522978
+      ],
+      "manufacture_date": "4-Dec-19",
+      "on_road_since": "23-Dec-19",
+      "soc": 76.7285386,
+      "vendor": "Bounce Share"
+    },
+    "VIM-19": {
+      "expiry_date": "28-Jan-41",
+      "g": "ttns45fk6f",
+      "km": 88.72690542,
+      "l": [
+        28.84946579,
+        76.73172981
+      ],
+      "manufacture_date": "4-Nov-19",
+      "on_road_since": "22-Dec-19",
+      "soc": 73.35503375,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-190": {
+      "expiry_date": "19-Sep-42",
+      "g": "ttnu0m4jdm",
+      "km": 30.58608332,
+      "l": [
+        28.85656524,
+        77.00602167
+      ],
+      "manufacture_date": "25-Aug-19",
+      "on_road_since": "23-Dec-19",
+      "soc": 71.98855875,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-191": {
+      "expiry_date": "30-Jan-41",
+      "g": "ttp41qt9qs",
+      "km": 59.57859496,
+      "l": [
+        28.51250768,
+        77.40651407
+      ],
+      "manufacture_date": "13-Jan-20",
+      "on_road_since": "30-Dec-19",
+      "soc": 69.35004963,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-192": {
+      "expiry_date": "16-Dec-41",
+      "g": "ttnes39vh8",
+      "km": 41.39476656,
+      "l": [
+        28.74933321,
+        76.82999555
+      ],
+      "manufacture_date": "2-Oct-19",
+      "on_road_since": "22-Dec-19",
+      "soc": 71.54993097,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-194": {
+      "expiry_date": "12-Mar-41",
+      "g": "ttnvqgsrp0",
+      "km": 53.53246455,
+      "l": [
+        29.06828298,
+        77.29495562
+      ],
+      "manufacture_date": "13-Nov-19",
+      "on_road_since": "4-Jan-20",
+      "soc": 70.58171706,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-195": {
+      "expiry_date": "2-Feb-44",
+      "g": "ttnt3ywufw",
+      "km": 18.03219613,
+      "l": [
+        29.08440931,
+        76.72691174
+      ],
+      "manufacture_date": "30-Jan-20",
+      "on_road_since": "4-Dec-19",
+      "soc": 70.01651302,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-196": {
+      "expiry_date": "13-Apr-42",
+      "g": "ttntk5m88h",
+      "km": 75.52067764,
+      "l": [
+        29.06581215,
+        76.82396199
+      ],
+      "manufacture_date": "21-Aug-19",
+      "on_road_since": "17-Dec-19",
+      "soc": 74.61232987,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-197": {
+      "expiry_date": "28-Nov-42",
+      "g": "ttnf506th6",
+      "km": 95.17751059,
+      "l": [
+        28.47880945,
+        77.12764971
+      ],
+      "manufacture_date": "11-Sep-19",
+      "on_road_since": "6-Jan-20",
+      "soc": 78.47013684,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-198": {
+      "expiry_date": "11-Sep-42",
+      "g": "ttnsuuhex5",
+      "km": 12.64792483,
+      "l": [
+        28.98255424,
+        76.85585206
+      ],
+      "manufacture_date": "10-Dec-19",
+      "on_road_since": "9-Dec-19",
+      "soc": 74.73644693,
+      "vendor": "Qquick"
+    },
+    "VIM-199": {
+      "expiry_date": "16-Aug-42",
+      "g": "ttn9r1dnsw",
+      "km": 27.43523043,
+      "l": [
+        28.35411791,
+        76.95118529
+      ],
+      "manufacture_date": "7-Aug-19",
+      "on_road_since": "11-Dec-19",
+      "soc": 81.49051165,
+      "vendor": "Campus Share"
+    },
+    "VIM-2": {
+      "expiry_date": "5-Apr-44",
+      "g": "ttn9hbxxxp",
+      "km": 53.1441767,
+      "l": [
+        28.30485752,
+        76.85997467
+      ],
+      "manufacture_date": "3-Nov-19",
+      "on_road_since": "7-Jan-20",
+      "soc": 73.14818519,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-20": {
+      "expiry_date": "20-Nov-41",
+      "g": "ttph0n1c8z",
+      "km": 51.05256929,
+      "l": [
+        28.86137936,
+        77.34619165
+      ],
+      "manufacture_date": "24-Dec-19",
+      "on_road_since": "1-Dec-19",
+      "soc": 75.15390278,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-200": {
+      "expiry_date": "5-Dec-43",
+      "g": "ttndzhjq79",
+      "km": 39.65340187,
+      "l": [
+        28.63145457,
+        76.95560344
+      ],
+      "manufacture_date": "16-Aug-19",
+      "on_road_since": "8-Dec-19",
+      "soc": 79.10841887,
+      "vendor": "Qquick"
+    },
+    "VIM-201": {
+      "expiry_date": "17-Sep-41",
+      "g": "ttnutybrbs",
+      "km": 25.03703829,
+      "l": [
+        28.95444789,
+        77.24523959
+      ],
+      "manufacture_date": "9-Dec-19",
+      "on_road_since": "6-Dec-19",
+      "soc": 79.56291349,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-202": {
+      "expiry_date": "21-Apr-44",
+      "g": "ttn9g73m8q",
+      "km": 39.67842034,
+      "l": [
+        28.45145115,
+        76.78518108
+      ],
+      "manufacture_date": "27-Jan-20",
+      "on_road_since": "14-Jan-20",
+      "soc": 80.83196451,
+      "vendor": "Qquick"
+    },
+    "VIM-203": {
+      "expiry_date": "10-Sep-44",
+      "g": "ttnv65g4mr",
+      "km": 88.65882183,
+      "l": [
+        29.06887854,
+        77.08443272
+      ],
+      "manufacture_date": "12-Dec-19",
+      "on_road_since": "9-Jan-20",
+      "soc": 75.31841391,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-205": {
+      "expiry_date": "25-Oct-42",
+      "g": "ttnckybkb9",
+      "km": 18.21735974,
+      "l": [
+        28.38262714,
+        77.20130182
+      ],
+      "manufacture_date": "16-Jan-20",
+      "on_road_since": "2-Jan-20",
+      "soc": 75.83133374,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-206": {
+      "expiry_date": "10-Sep-41",
+      "g": "ttp465hp01",
+      "km": 91.1857557,
+      "l": [
+        28.53819647,
+        77.43713624
+      ],
+      "manufacture_date": "8-Oct-19",
+      "on_road_since": "11-Dec-19",
+      "soc": 77.79450027,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-207": {
+      "expiry_date": "18-Nov-41",
+      "g": "ttnevqzkxn",
+      "km": 23.53199041,
+      "l": [
+        28.82206811,
+        76.88159929
+      ],
+      "manufacture_date": "25-Aug-19",
+      "on_road_since": "25-Jan-20",
+      "soc": 77.91729425,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-208": {
+      "expiry_date": "6-Sep-44",
+      "g": "ttnfvjph5b",
+      "km": 2.087801367,
+      "l": [
+        28.63655571,
+        77.22169465
+      ],
+      "manufacture_date": "20-Sep-19",
+      "on_road_since": "3-Dec-19",
+      "soc": 75.13488879,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-209": {
+      "expiry_date": "26-Jul-42",
+      "g": "ttph1rr4x8",
+      "km": 50.81378886,
+      "l": [
+        28.86838463,
+        77.40862478
+      ],
+      "manufacture_date": "19-Dec-19",
+      "on_road_since": "8-Jan-20",
+      "soc": 75.9945832,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-21": {
+      "expiry_date": "8-Aug-44",
+      "g": "ttnfgs2etj",
+      "km": 22.6904682,
+      "l": [
+        28.63237644,
+        77.14689755
+      ],
+      "manufacture_date": "13-Dec-19",
+      "on_road_since": "9-Dec-19",
+      "soc": 74.17133293,
+      "vendor": "Vogo"
+    },
+    "VIM-210": {
+      "expiry_date": "7-Sep-41",
+      "g": "ttph4yx57u",
+      "km": 16.79549171,
+      "l": [
+        28.86441391,
+        77.474382
+      ],
+      "manufacture_date": "17-Dec-19",
+      "on_road_since": "18-Jan-20",
+      "soc": 79.00901677,
+      "vendor": "Bounce Share"
+    },
+    "VIM-211": {
+      "expiry_date": "26-Jun-43",
+      "g": "ttne5482c6",
+      "km": 86.2318661,
+      "l": [
+        28.66621723,
+        76.77286586
+      ],
+      "manufacture_date": "23-Aug-19",
+      "on_road_since": "19-Jan-20",
+      "soc": 76.17168064,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-212": {
+      "expiry_date": "29-Apr-43",
+      "g": "ttp54r6vx9",
+      "km": 65.32561921,
+      "l": [
+        28.69312325,
+        77.44672724
+      ],
+      "manufacture_date": "24-Sep-19",
+      "on_road_since": "10-Dec-19",
+      "soc": 71.91320812,
+      "vendor": "Bounce Share"
+    },
+    "VIM-213": {
+      "expiry_date": "25-Jun-44",
+      "g": "ttn93x5uf9",
+      "km": 92.69676873,
+      "l": [
+        28.38400308,
+        76.71180086
+      ],
+      "manufacture_date": "6-Sep-19",
+      "on_road_since": "5-Jan-20",
+      "soc": 76.40997211,
+      "vendor": "Vogo"
+    },
+    "VIM-214": {
+      "expiry_date": "27-Jan-43",
+      "g": "ttph39cyc2",
+      "km": 99.63740779,
+      "l": [
+        28.88284434,
+        77.41212934
+      ],
+      "manufacture_date": "3-Jan-20",
+      "on_road_since": "25-Dec-19",
+      "soc": 79.87531693,
+      "vendor": "Bounce Share"
+    },
+    "VIM-215": {
+      "expiry_date": "31-Jul-40",
+      "g": "ttnfncqchp",
+      "km": 19.02770908,
+      "l": [
+        28.48364089,
+        77.29826847
+      ],
+      "manufacture_date": "31-Jan-20",
+      "on_road_since": "7-Jan-20",
+      "soc": 74.34957019,
+      "vendor": "Campus Share"
+    },
+    "VIM-216": {
+      "expiry_date": "10-Oct-44",
+      "g": "ttngmcq3e8",
+      "km": 57.49107636,
+      "l": [
+        28.70341551,
+        77.25361589
+      ],
+      "manufacture_date": "20-Aug-19",
+      "on_road_since": "3-Jan-20",
+      "soc": 80.99247373,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-217": {
+      "expiry_date": "1-Nov-42",
+      "g": "ttndv6rz2c",
+      "km": 95.77946629,
+      "l": [
+        28.62200814,
+        76.88201311
+      ],
+      "manufacture_date": "31-Dec-19",
+      "on_road_since": "16-Jan-20",
+      "soc": 69.93927491,
+      "vendor": "Campus Share"
+    },
+    "VIM-218": {
+      "expiry_date": "8-Sep-42",
+      "g": "ttp4cxfex9",
+      "km": 70.12841123,
+      "l": [
+        28.65157769,
+        77.41342716
+      ],
+      "manufacture_date": "27-Nov-19",
+      "on_road_since": "13-Dec-19",
+      "soc": 71.68267361,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-219": {
+      "expiry_date": "8-Jan-44",
+      "g": "ttndpvqzfc",
+      "km": 65.032527,
+      "l": [
+        28.50674003,
+        76.99059202
+      ],
+      "manufacture_date": "23-Dec-19",
+      "on_road_since": "31-Jan-20",
+      "soc": 69.90534613,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-22": {
+      "expiry_date": "5-Feb-43",
+      "g": "ttphb5qyqn",
+      "km": 96.45503357,
+      "l": [
+        28.9789194,
+        77.3532854
+      ],
+      "manufacture_date": "20-Oct-19",
+      "on_road_since": "26-Jan-20",
+      "soc": 77.73823611,
+      "vendor": "Qquick"
+    },
+    "VIM-220": {
+      "expiry_date": "23-May-43",
+      "g": "ttne7qhq59",
+      "km": 26.19316971,
+      "l": [
+        28.73028413,
+        76.78943748
+      ],
+      "manufacture_date": "19-Sep-19",
+      "on_road_since": "25-Dec-19",
+      "soc": 77.8629568,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-221": {
+      "expiry_date": "31-May-44",
+      "g": "ttnsre399s",
+      "km": 76.43299332,
+      "l": [
+        28.89020557,
+        76.97234614
+      ],
+      "manufacture_date": "17-Sep-19",
+      "on_road_since": "10-Dec-19",
+      "soc": 79.13335511,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-222": {
+      "expiry_date": "30-Apr-44",
+      "g": "ttnv1t896t",
+      "km": 68.60885531,
+      "l": [
+        29.03436292,
+        77.05890898
+      ],
+      "manufacture_date": "30-Nov-19",
+      "on_road_since": "5-Jan-20",
+      "soc": 71.18668216,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-223": {
+      "expiry_date": "19-Aug-43",
+      "g": "ttngsf30ne",
+      "km": 26.68757858,
+      "l": [
+        28.75261434,
+        77.20258191
+      ],
+      "manufacture_date": "2-Sep-19",
+      "on_road_since": "15-Jan-20",
+      "soc": 79.10565801,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-224": {
+      "expiry_date": "18-Feb-42",
+      "g": "ttnfnv0ky5",
+      "km": 77.16834429,
+      "l": [
+        28.50486453,
+        77.28942105
+      ],
+      "manufacture_date": "31-Jan-20",
+      "on_road_since": "9-Jan-20",
+      "soc": 71.62373575,
+      "vendor": "Campus Share"
+    },
+    "VIM-225": {
+      "expiry_date": "13-Jan-41",
+      "g": "ttnd78wbsg",
+      "km": 66.05268456,
+      "l": [
+        28.52335683,
+        76.80391628
+      ],
+      "manufacture_date": "20-Nov-19",
+      "on_road_since": "4-Jan-20",
+      "soc": 78.60344816,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-226": {
+      "expiry_date": "4-Feb-42",
+      "g": "ttnvpwwnrr",
+      "km": 34.05110345,
+      "l": [
+        29.04072423,
+        77.33033203
+      ],
+      "manufacture_date": "13-Aug-19",
+      "on_road_since": "14-Jan-20",
+      "soc": 70.326664,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-227": {
+      "expiry_date": "14-Dec-44",
+      "g": "ttp486dmyy",
+      "km": 84.03815052,
+      "l": [
+        28.57920921,
+        77.35812329
+      ],
+      "manufacture_date": "30-Nov-19",
+      "on_road_since": "24-Jan-20",
+      "soc": 72.79723568,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-228": {
+      "expiry_date": "21-Nov-43",
+      "g": "ttnv6pscxy",
+      "km": 37.76098757,
+      "l": [
+        29.08934214,
+        77.08694333
+      ],
+      "manufacture_date": "13-Sep-19",
+      "on_road_since": "17-Dec-19",
+      "soc": 81.16954814,
+      "vendor": "Qquick"
+    },
+    "VIM-229": {
+      "expiry_date": "25-Aug-40",
+      "g": "ttp47e8vs5",
+      "km": 17.21529879,
+      "l": [
+        28.5406994,
+        77.49876987
+      ],
+      "manufacture_date": "22-Aug-19",
+      "on_road_since": "10-Jan-20",
+      "soc": 81.51223618,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-23": {
+      "expiry_date": "23-Aug-44",
+      "g": "ttnus4gx67",
+      "km": 52.13451281,
+      "l": [
+        28.93238712,
+        77.17288192
+      ],
+      "manufacture_date": "13-Jan-20",
+      "on_road_since": "28-Jan-20",
+      "soc": 70.47022211,
+      "vendor": "Vogo"
+    },
+    "VIM-230": {
+      "expiry_date": "25-Apr-42",
+      "g": "ttnuytwk29",
+      "km": 84.59048117,
+      "l": [
+        28.99091307,
+        77.28644519
+      ],
+      "manufacture_date": "8-Jan-20",
+      "on_road_since": "2-Jan-20",
+      "soc": 80.08655267,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-231": {
+      "expiry_date": "26-Aug-44",
+      "g": "ttnccj0yz5",
+      "km": 20.15404658,
+      "l": [
+        28.46125992,
+        77.03747068
+      ],
+      "manufacture_date": "4-Oct-19",
+      "on_road_since": "7-Jan-20",
+      "soc": 81.98470666,
+      "vendor": "Qquick"
+    },
+    "VIM-232": {
+      "expiry_date": "30-Oct-41",
+      "g": "ttnggfy092",
+      "km": 62.58474869,
+      "l": [
+        28.79937173,
+        77.16527895
+      ],
+      "manufacture_date": "30-Oct-19",
+      "on_road_since": "29-Dec-19",
+      "soc": 72.91168974,
+      "vendor": "Campus Share"
+    },
+    "VIM-233": {
+      "expiry_date": "5-Aug-42",
+      "g": "ttngtvymcr",
+      "km": 38.05908552,
+      "l": [
+        28.77284825,
+        77.25351719
+      ],
+      "manufacture_date": "11-Dec-19",
+      "on_road_since": "1-Dec-19",
+      "soc": 78.02441076,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-234": {
+      "expiry_date": "26-Aug-40",
+      "g": "ttnsy9wtyf",
+      "km": 71.87829284,
+      "l": [
+        28.96920196,
+        76.93548621
+      ],
+      "manufacture_date": "9-Nov-19",
+      "on_road_since": "31-Dec-19",
+      "soc": 70.71653083,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-235": {
+      "expiry_date": "27-Aug-42",
+      "g": "ttngphzw5z",
+      "km": 29.41346254,
+      "l": [
+        28.67950567,
+        77.31027287
+      ],
+      "manufacture_date": "22-Oct-19",
+      "on_road_since": "31-Dec-19",
+      "soc": 75.3441023,
+      "vendor": "Bounce Share"
+    },
+    "VIM-236": {
+      "expiry_date": "10-Jan-45",
+      "g": "ttpje3vd2p",
+      "km": 85.98869227,
+      "l": [
+        29.10183509,
+        77.4941331
+      ],
+      "manufacture_date": "5-Jan-20",
+      "on_road_since": "28-Jan-20",
+      "soc": 77.76396694,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-237": {
+      "expiry_date": "24-Mar-43",
+      "g": "ttng87q7ym",
+      "km": 79.01278654,
+      "l": [
+        28.75876106,
+        77.01203062
+      ],
+      "manufacture_date": "29-Sep-19",
+      "on_road_since": "30-Dec-19",
+      "soc": 80.20845321,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-238": {
+      "expiry_date": "27-Sep-44",
+      "g": "ttn93qywqh",
+      "km": 56.53732406,
+      "l": [
+        28.38290136,
+        76.70474114
+      ],
+      "manufacture_date": "2-Jan-20",
+      "on_road_since": "31-Jan-20",
+      "soc": 78.10905335,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-239": {
+      "expiry_date": "15-Jun-41",
+      "g": "ttnuz47643",
+      "km": 4.969209239,
+      "l": [
+        28.97267363,
+        77.30436515
+      ],
+      "manufacture_date": "26-Jan-20",
+      "on_road_since": "25-Jan-20",
+      "soc": 78.23539636,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-24": {
+      "expiry_date": "13-Oct-41",
+      "g": "ttnt71u1tf",
+      "km": 91.99201389,
+      "l": [
+        29.05773387,
+        76.77821089
+      ],
+      "manufacture_date": "9-Aug-19",
+      "on_road_since": "20-Jan-20",
+      "soc": 69.88775844,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-240": {
+      "expiry_date": "26-Nov-43",
+      "g": "ttnepwmfbk",
+      "km": 51.1881876,
+      "l": [
+        28.68717017,
+        76.97813064
+      ],
+      "manufacture_date": "5-Aug-19",
+      "on_road_since": "15-Dec-19",
+      "soc": 72.71373486,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-241": {
+      "expiry_date": "11-Sep-41",
+      "g": "ttpj46qsdr",
+      "km": 14.88096967,
+      "l": [
+        29.01707976,
+        77.45165708
+      ],
+      "manufacture_date": "25-Dec-19",
+      "on_road_since": "30-Dec-19",
+      "soc": 77.94897178,
+      "vendor": "Bounce Share"
+    },
+    "VIM-242": {
+      "expiry_date": "13-Aug-40",
+      "g": "ttnv4e63p0",
+      "km": 68.06483355,
+      "l": [
+        29.0219314,
+        77.10544782
+      ],
+      "manufacture_date": "30-Nov-19",
+      "on_road_since": "26-Jan-20",
+      "soc": 79.31295099,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-243": {
+      "expiry_date": "18-Jan-44",
+      "g": "ttp18zehtn",
+      "km": 70.76563065,
+      "l": [
+        28.43067702,
+        77.38104393
+      ],
+      "manufacture_date": "28-Jan-20",
+      "on_road_since": "6-Dec-19",
+      "soc": 69.76762183,
+      "vendor": "Campus Share"
+    },
+    "VIM-244": {
+      "expiry_date": "18-Sep-42",
+      "g": "ttph14fnqz",
+      "km": 86.33062285,
+      "l": [
+        28.84434652,
+        77.39073443
+      ],
+      "manufacture_date": "11-Jan-20",
+      "on_road_since": "14-Jan-20",
+      "soc": 78.67238502,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-245": {
+      "expiry_date": "9-Aug-41",
+      "g": "ttndxk45gk",
+      "km": 22.3672238,
+      "l": [
+        28.58709525,
+        76.96212031
+      ],
+      "manufacture_date": "25-Jan-20",
+      "on_road_since": "17-Jan-20",
+      "soc": 73.91533394,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-246": {
+      "expiry_date": "27-Oct-41",
+      "g": "ttnc2xhsnh",
+      "km": 11.58595007,
+      "l": [
+        28.38388898,
+        77.0206063
+      ],
+      "manufacture_date": "22-Jan-20",
+      "on_road_since": "12-Dec-19",
+      "soc": 72.82754117,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-247": {
+      "expiry_date": "9-Feb-41",
+      "g": "ttnvjwkfgq",
+      "km": 15.8311395,
+      "l": [
+        29.03874769,
+        77.24055435
+      ],
+      "manufacture_date": "27-Aug-19",
+      "on_road_since": "29-Jan-20",
+      "soc": 81.23268157,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-248": {
+      "expiry_date": "8-Oct-43",
+      "g": "ttnurfghbf",
+      "km": 37.31464968,
+      "l": [
+        28.88800567,
+        77.33691644
+      ],
+      "manufacture_date": "23-Aug-19",
+      "on_road_since": "28-Dec-19",
+      "soc": 80.08775748,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-249": {
+      "expiry_date": "22-Mar-43",
+      "g": "ttneybm1q4",
+      "km": 44.75987832,
+      "l": [
+        28.78577891,
+        76.94438481
+      ],
+      "manufacture_date": "18-Sep-19",
+      "on_road_since": "20-Dec-19",
+      "soc": 69.43382563,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-250": {
+      "expiry_date": "6-Apr-41",
+      "g": "ttnudbpe8s",
+      "km": 95.56530306,
+      "l": [
+        28.91663868,
+        77.1233588
+      ],
+      "manufacture_date": "4-Aug-19",
+      "on_road_since": "12-Jan-20",
+      "soc": 80.78868369,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-251": {
+      "expiry_date": "21-Dec-44",
+      "g": "ttp5bd63m3",
+      "km": 33.23354336,
+      "l": [
+        28.79676351,
+        77.36904597
+      ],
+      "manufacture_date": "19-Sep-19",
+      "on_road_since": "18-Jan-20",
+      "soc": 70.98934406,
+      "vendor": "Bounce Share"
+    },
+    "VIM-252": {
+      "expiry_date": "21-Nov-41",
+      "g": "ttnvh7eccr",
+      "km": 88.97949479,
+      "l": [
+        29.02347051,
+        77.18416377
+      ],
+      "manufacture_date": "21-Nov-19",
+      "on_road_since": "22-Dec-19",
+      "soc": 72.08570715,
+      "vendor": "Vogo"
+    },
+    "VIM-253": {
+      "expiry_date": "27-Jan-43",
+      "g": "ttp4fbc6ye",
+      "km": 62.07709184,
+      "l": [
+        28.61300883,
+        77.46659796
+      ],
+      "manufacture_date": "19-Dec-19",
+      "on_road_since": "18-Dec-19",
+      "soc": 73.1789337,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-254": {
+      "expiry_date": "19-May-44",
+      "g": "ttns7zvnmj",
+      "km": 87.48512606,
+      "l": [
+        28.91574372,
+        76.81250191
+      ],
+      "manufacture_date": "29-Sep-19",
+      "on_road_since": "24-Dec-19",
+      "soc": 76.15151307,
+      "vendor": "Campus Share"
+    },
+    "VIM-255": {
+      "expiry_date": "26-Jan-43",
+      "g": "ttnsg1xr74",
+      "km": 40.78143935,
+      "l": [
+        28.96945931,
+        76.78255058
+      ],
+      "manufacture_date": "9-Jan-20",
+      "on_road_since": "11-Dec-19",
+      "soc": 75.89188107,
+      "vendor": "Campus Share"
+    },
+    "VIM-257": {
+      "expiry_date": "4-Jun-44",
+      "g": "ttnv1h9tqj",
+      "km": 56.065261,
+      "l": [
+        29.02955843,
+        77.0384567
+      ],
+      "manufacture_date": "29-Dec-19",
+      "on_road_since": "23-Dec-19",
+      "soc": 70.88309122,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-259": {
+      "expiry_date": "1-Sep-41",
+      "g": "ttnuu248fg",
+      "km": 19.24690387,
+      "l": [
+        28.96010795,
+        77.1825155
+      ],
+      "manufacture_date": "28-Aug-19",
+      "on_road_since": "20-Jan-20",
+      "soc": 70.03932738,
+      "vendor": "Vogo"
+    },
+    "VIM-26": {
+      "expiry_date": "22-Nov-43",
+      "g": "ttnuh8qp67",
+      "km": 9.074915369,
+      "l": [
+        28.83076281,
+        77.19828659
+      ],
+      "manufacture_date": "30-Dec-19",
+      "on_road_since": "5-Jan-20",
+      "soc": 80.43879601,
+      "vendor": "Campus Share"
+    },
+    "VIM-260": {
+      "expiry_date": "10-Sep-43",
+      "g": "ttnuunmbgm",
+      "km": 0.752873578,
+      "l": [
+        28.99445046,
+        77.17601289
+      ],
+      "manufacture_date": "23-Nov-19",
+      "on_road_since": "23-Dec-19",
+      "soc": 69.73675299,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-261": {
+      "expiry_date": "17-Dec-42",
+      "g": "ttnt12njhr",
+      "km": 22.77923113,
+      "l": [
+        29.00480369,
+        76.70398874
+      ],
+      "manufacture_date": "29-Sep-19",
+      "on_road_since": "21-Jan-20",
+      "soc": 77.84230973,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-262": {
+      "expiry_date": "31-Mar-43",
+      "g": "ttnf6n1qxe",
+      "km": 96.33928618,
+      "l": [
+        28.55459883,
+        77.0821202
+      ],
+      "manufacture_date": "19-Oct-19",
+      "on_road_since": "29-Jan-20",
+      "soc": 76.78503411,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-263": {
+      "expiry_date": "4-Jan-42",
+      "g": "ttnusk1rrj",
+      "km": 59.70140151,
+      "l": [
+        28.93926419,
+        77.18097542
+      ],
+      "manufacture_date": "10-Sep-19",
+      "on_road_since": "5-Jan-20",
+      "soc": 73.31543717,
+      "vendor": "Qquick"
+    },
+    "VIM-264": {
+      "expiry_date": "14-Mar-41",
+      "g": "ttnfy4yxsd",
+      "km": 97.89162154,
+      "l": [
+        28.62480481,
+        77.26498117
+      ],
+      "manufacture_date": "1-Feb-20",
+      "on_road_since": "29-Dec-19",
+      "soc": 78.49777201,
+      "vendor": "Bounce Share"
+    },
+    "VIM-265": {
+      "expiry_date": "17-Apr-43",
+      "g": "ttnvqeqbh1",
+      "km": 66.98269498,
+      "l": [
+        29.06571084,
+        77.28727789
+      ],
+      "manufacture_date": "1-Dec-19",
+      "on_road_since": "4-Jan-20",
+      "soc": 76.72519665,
+      "vendor": "Qquick"
+    },
+    "VIM-266": {
+      "expiry_date": "4-May-43",
+      "g": "ttph3t2wx6",
+      "km": 4.719049268,
+      "l": [
+        28.90203679,
+        77.4106707
+      ],
+      "manufacture_date": "31-Aug-19",
+      "on_road_since": "24-Jan-20",
+      "soc": 81.70300912,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-267": {
+      "expiry_date": "23-Jul-42",
+      "g": "ttnsp5ccs3",
+      "km": 85.44291723,
+      "l": [
+        28.84899083,
+        76.95083383
+      ],
+      "manufacture_date": "6-Nov-19",
+      "on_road_since": "27-Jan-20",
+      "soc": 70.49164141,
+      "vendor": "Campus Share"
+    },
+    "VIM-268": {
+      "expiry_date": "28-Mar-43",
+      "g": "ttnfq9nubq",
+      "km": 63.17852535,
+      "l": [
+        28.52685386,
+        77.28711473
+      ],
+      "manufacture_date": "15-Aug-19",
+      "on_road_since": "6-Dec-19",
+      "soc": 80.29490405,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-269": {
+      "expiry_date": "1-Jul-43",
+      "g": "ttnsfvuqk0",
+      "km": 82.34193023,
+      "l": [
+        28.99262466,
+        76.7674899
+      ],
+      "manufacture_date": "9-Sep-19",
+      "on_road_since": "18-Dec-19",
+      "soc": 80.2630944,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-27": {
+      "expiry_date": "9-Apr-42",
+      "g": "ttnfcbuv9h",
+      "km": 85.54333234,
+      "l": [
+        28.61348597,
+        77.0756652
+      ],
+      "manufacture_date": "16-Dec-19",
+      "on_road_since": "18-Dec-19",
+      "soc": 75.3513049,
+      "vendor": "Campus Share"
+    },
+    "VIM-270": {
+      "expiry_date": "9-Dec-40",
+      "g": "ttne7ry6rp",
+      "km": 43.89771462,
+      "l": [
+        28.73928952,
+        76.79234014
+      ],
+      "manufacture_date": "9-Oct-19",
+      "on_road_since": "11-Dec-19",
+      "soc": 78.14215343,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-271": {
+      "expiry_date": "7-Nov-40",
+      "g": "ttnugkwpps",
+      "km": 33.80344052,
+      "l": [
+        28.98590655,
+        77.14357606
+      ],
+      "manufacture_date": "8-Sep-19",
+      "on_road_since": "21-Dec-19",
+      "soc": 69.23336245,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-272": {
+      "expiry_date": "3-Aug-44",
+      "g": "ttnfxx19rt",
+      "km": 31.87281378,
+      "l": [
+        28.6031494,
+        77.32416907
+      ],
+      "manufacture_date": "2-Nov-19",
+      "on_road_since": "26-Dec-19",
+      "soc": 79.55042631,
+      "vendor": "Campus Share"
+    },
+    "VIM-273": {
+      "expiry_date": "16-Sep-41",
+      "g": "ttnu91xf5b",
+      "km": 92.95741303,
+      "l": [
+        28.9245988,
+        77.046939
+      ],
+      "manufacture_date": "2-Sep-19",
+      "on_road_since": "11-Jan-20",
+      "soc": 73.47573088,
+      "vendor": "Campus Share"
+    },
+    "VIM-274": {
+      "expiry_date": "31-Jul-41",
+      "g": "ttnch9c8r6",
+      "km": 2.188995341,
+      "l": [
+        28.31044873,
+        77.192318
+      ],
+      "manufacture_date": "21-Aug-19",
+      "on_road_since": "21-Jan-20",
+      "soc": 74.06325914,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-275": {
+      "expiry_date": "22-Jan-45",
+      "g": "ttnsw2dc7v",
+      "km": 69.13676569,
+      "l": [
+        28.91900406,
+        76.91922545
+      ],
+      "manufacture_date": "17-Aug-19",
+      "on_road_since": "22-Dec-19",
+      "soc": 76.47382415,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-276": {
+      "expiry_date": "19-Mar-44",
+      "g": "ttp171582g",
+      "km": 76.49692341,
+      "l": [
+        28.35028253,
+        77.48043479
+      ],
+      "manufacture_date": "28-Jan-20",
+      "on_road_since": "31-Dec-19",
+      "soc": 70.14245734,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-277": {
+      "expiry_date": "6-Nov-41",
+      "g": "ttnednjhu3",
+      "km": 0.4451303,
+      "l": [
+        28.77401653,
+        76.73556625
+      ],
+      "manufacture_date": "21-Aug-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 73.17109913,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-278": {
+      "expiry_date": "15-Apr-43",
+      "g": "ttnd63hj6p",
+      "km": 61.68758202,
+      "l": [
+        28.52694339,
+        76.74508187
+      ],
+      "manufacture_date": "21-Jan-20",
+      "on_road_since": "19-Jan-20",
+      "soc": 75.06028024,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-279": {
+      "expiry_date": "26-May-44",
+      "g": "ttncftnq8e",
+      "km": 72.72723051,
+      "l": [
+        28.46121902,
+        77.11066308
+      ],
+      "manufacture_date": "21-Nov-19",
+      "on_road_since": "1-Dec-19",
+      "soc": 72.63979652,
+      "vendor": "Qquick"
+    },
+    "VIM-28": {
+      "expiry_date": "12-Jun-41",
+      "g": "ttngm85sgp",
+      "km": 54.7364078,
+      "l": [
+        28.69714562,
+        77.23882908
+      ],
+      "manufacture_date": "11-Jan-20",
+      "on_road_since": "11-Jan-20",
+      "soc": 73.11734534,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-280": {
+      "expiry_date": "5-Jul-44",
+      "g": "ttnvd1cm3x",
+      "km": 22.72824976,
+      "l": [
+        29.10234925,
+        77.08186279
+      ],
+      "manufacture_date": "1-Aug-19",
+      "on_road_since": "3-Jan-20",
+      "soc": 75.71239444,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-281": {
+      "expiry_date": "7-May-42",
+      "g": "ttnuq63dng",
+      "km": 68.59436342,
+      "l": [
+        28.8847943,
+        77.26920156
+      ],
+      "manufacture_date": "18-Nov-19",
+      "on_road_since": "29-Jan-20",
+      "soc": 73.90867622,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-282": {
+      "expiry_date": "24-Sep-44",
+      "g": "ttnfbh61hw",
+      "km": 97.42424538,
+      "l": [
+        28.63194857,
+        76.99513201
+      ],
+      "manufacture_date": "5-Jan-20",
+      "on_road_since": "9-Jan-20",
+      "soc": 73.44968034,
+      "vendor": "Campus Share"
+    },
+    "VIM-283": {
+      "expiry_date": "24-May-42",
+      "g": "ttnv091tg0",
+      "km": 7.55360034,
+      "l": [
+        29.01038784,
+        77.01635737
+      ],
+      "manufacture_date": "6-Nov-19",
+      "on_road_since": "21-Jan-20",
+      "soc": 81.91458311,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-284": {
+      "expiry_date": "12-Sep-41",
+      "g": "ttndkc624y",
+      "km": 60.3753102,
+      "l": [
+        28.52741012,
+        76.85257643
+      ],
+      "manufacture_date": "5-Oct-19",
+      "on_road_since": "31-Jan-20",
+      "soc": 79.66511276,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-285": {
+      "expiry_date": "29-Jun-44",
+      "g": "ttnf8chg1q",
+      "km": 13.32403657,
+      "l": [
+        28.57049604,
+        77.03172696
+      ],
+      "manufacture_date": "19-Sep-19",
+      "on_road_since": "4-Dec-19",
+      "soc": 73.06587792,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-286": {
+      "expiry_date": "22-Jan-43",
+      "g": "ttng6pghqp",
+      "km": 55.2160738,
+      "l": [
+        28.73963127,
+        77.08445659
+      ],
+      "manufacture_date": "7-Nov-19",
+      "on_road_since": "8-Jan-20",
+      "soc": 76.32359021,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-287": {
+      "expiry_date": "11-Apr-43",
+      "g": "ttnedz4z7g",
+      "km": 95.31513503,
+      "l": [
+        28.77994774,
+        76.76541852
+      ],
+      "manufacture_date": "6-Aug-19",
+      "on_road_since": "5-Jan-20",
+      "soc": 80.9216292,
+      "vendor": "Bounce Share"
+    },
+    "VIM-288": {
+      "expiry_date": "30-Oct-40",
+      "g": "ttnfgdjcp5",
+      "km": 24.47737466,
+      "l": [
+        28.61957747,
+        77.15420124
+      ],
+      "manufacture_date": "17-Sep-19",
+      "on_road_since": "9-Dec-19",
+      "soc": 72.06632325,
+      "vendor": "Campus Share"
+    },
+    "VIM-289": {
+      "expiry_date": "9-Aug-42",
+      "g": "ttndmbb80j",
+      "km": 92.81769076,
+      "l": [
+        28.52465978,
+        76.89400343
+      ],
+      "manufacture_date": "7-Oct-19",
+      "on_road_since": "12-Dec-19",
+      "soc": 69.48162676,
+      "vendor": "Campus Share"
+    },
+    "VIM-291": {
+      "expiry_date": "26-Jan-44",
+      "g": "ttnunzuxyt",
+      "km": 73.10609538,
+      "l": [
+        28.87205482,
+        77.29528378
+      ],
+      "manufacture_date": "23-Oct-19",
+      "on_road_since": "3-Jan-20",
+      "soc": 70.24214935,
+      "vendor": "Vogo"
+    },
+    "VIM-292": {
+      "expiry_date": "16-May-44",
+      "g": "ttndpnhbgb",
+      "km": 66.05233855,
+      "l": [
+        28.50965408,
+        76.95492814
+      ],
+      "manufacture_date": "7-Nov-19",
+      "on_road_since": "3-Jan-20",
+      "soc": 76.27832742,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-293": {
+      "expiry_date": "22-Dec-40",
+      "g": "ttph69gzzz",
+      "km": 74.13413959,
+      "l": [
+        28.88305413,
+        77.45910012
+      ],
+      "manufacture_date": "11-Nov-19",
+      "on_road_since": "28-Dec-19",
+      "soc": 76.39280885,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-294": {
+      "expiry_date": "23-Aug-40",
+      "g": "ttngr90v1s",
+      "km": 78.11080275,
+      "l": [
+        28.70266714,
+        77.3228813
+      ],
+      "manufacture_date": "11-Oct-19",
+      "on_road_since": "26-Jan-20",
+      "soc": 75.10862707,
+      "vendor": "Vogo"
+    },
+    "VIM-295": {
+      "expiry_date": "11-Jun-43",
+      "g": "ttncuqk30v",
+      "km": 46.25165307,
+      "l": [
+        28.46714849,
+        77.18482438
+      ],
+      "manufacture_date": "25-Nov-19",
+      "on_road_since": "1-Jan-20",
+      "soc": 81.22943911,
+      "vendor": "Campus Share"
+    },
+    "VIM-296": {
+      "expiry_date": "25-Jan-41",
+      "g": "ttnsmvxnf8",
+      "km": 93.4304768,
+      "l": [
+        28.90344565,
+        76.90304096
+      ],
+      "manufacture_date": "6-Dec-19",
+      "on_road_since": "19-Dec-19",
+      "soc": 71.59179171,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-297": {
+      "expiry_date": "28-Nov-43",
+      "g": "ttnv038gkn",
+      "km": 62.25308275,
+      "l": [
+        29.01273624,
+        77.00438512
+      ],
+      "manufacture_date": "12-Jan-20",
+      "on_road_since": "26-Jan-20",
+      "soc": 74.5652591,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-298": {
+      "expiry_date": "2-Oct-44",
+      "g": "ttnf30vxc4",
+      "km": 15.84121508,
+      "l": [
+        28.52597088,
+        77.04373024
+      ],
+      "manufacture_date": "3-Dec-19",
+      "on_road_since": "21-Dec-19",
+      "soc": 72.34970912,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-299": {
+      "expiry_date": "27-Dec-44",
+      "g": "ttn91zf6j4",
+      "km": 94.36646122,
+      "l": [
+        28.34371009,
+        76.72083827
+      ],
+      "manufacture_date": "29-Sep-19",
+      "on_road_since": "16-Dec-19",
+      "soc": 79.23690334,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-3": {
+      "expiry_date": "17-Dec-42",
+      "g": "ttp1f9d2kk",
+      "km": 16.64343343,
+      "l": [
+        28.44092632,
+        77.45689443
+      ],
+      "manufacture_date": "26-Sep-19",
+      "on_road_since": "11-Dec-19",
+      "soc": 78.50250949,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-30": {
+      "expiry_date": "8-Jun-43",
+      "g": "ttnd76hxw7",
+      "km": 32.69247535,
+      "l": [
+        28.53280059,
+        76.78990013
+      ],
+      "manufacture_date": "8-Oct-19",
+      "on_road_since": "19-Jan-20",
+      "soc": 78.34513083,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-300": {
+      "expiry_date": "30-Sep-41",
+      "g": "ttnvqnw4nj",
+      "km": 85.53599707,
+      "l": [
+        29.08392871,
+        77.26435803
+      ],
+      "manufacture_date": "26-Jan-20",
+      "on_road_since": "14-Jan-20",
+      "soc": 74.47836646,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-301": {
+      "expiry_date": "9-Apr-43",
+      "g": "ttn9puc18r",
+      "km": 28.08545792,
+      "l": [
+        28.327172,
+        76.98259307
+      ],
+      "manufacture_date": "25-Dec-19",
+      "on_road_since": "12-Dec-19",
+      "soc": 81.34592565,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-302": {
+      "expiry_date": "15-Oct-41",
+      "g": "ttncg7b5q4",
+      "km": 56.07334746,
+      "l": [
+        28.45378833,
+        77.13526959
+      ],
+      "manufacture_date": "1-Sep-19",
+      "on_road_since": "4-Jan-20",
+      "soc": 77.90993279,
+      "vendor": "Campus Share"
+    },
+    "VIM-303": {
+      "expiry_date": "9-May-44",
+      "g": "ttndhc1nqn",
+      "km": 60.93551436,
+      "l": [
+        28.48316216,
+        76.85100476
+      ],
+      "manufacture_date": "8-Sep-19",
+      "on_road_since": "19-Dec-19",
+      "soc": 78.27036595,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-304": {
+      "expiry_date": "4-Nov-44",
+      "g": "ttnfmryy5s",
+      "km": 55.95664631,
+      "l": [
+        28.56413574,
+        77.2323267
+      ],
+      "manufacture_date": "19-Oct-19",
+      "on_road_since": "25-Jan-20",
+      "soc": 80.27662183,
+      "vendor": "Vogo"
+    },
+    "VIM-305": {
+      "expiry_date": "30-Nov-41",
+      "g": "ttnv6r1b85",
+      "km": 78.84942355,
+      "l": [
+        29.08640694,
+        77.0934777
+      ],
+      "manufacture_date": "31-Oct-19",
+      "on_road_since": "3-Jan-20",
+      "soc": 73.4675457,
+      "vendor": "Qquick"
+    },
+    "VIM-306": {
+      "expiry_date": "10-Apr-41",
+      "g": "ttnt18pgwz",
+      "km": 78.21800803,
+      "l": [
+        29.00454953,
+        76.71747805
+      ],
+      "manufacture_date": "2-Sep-19",
+      "on_road_since": "5-Jan-20",
+      "soc": 80.11395069,
+      "vendor": "Vogo"
+    },
+    "VIM-307": {
+      "expiry_date": "25-Jan-45",
+      "g": "ttnsfs08xj",
+      "km": 8.425156519,
+      "l": [
+        28.98205078,
+        76.75148559
+      ],
+      "manufacture_date": "12-Jan-20",
+      "on_road_since": "12-Jan-20",
+      "soc": 72.88133175,
+      "vendor": "Qquick"
+    },
+    "VIM-308": {
+      "expiry_date": "17-Feb-42",
+      "g": "ttneuqsgzb",
+      "km": 1.437315949,
+      "l": [
+        28.8205313,
+        76.83425547
+      ],
+      "manufacture_date": "9-Nov-19",
+      "on_road_since": "3-Jan-20",
+      "soc": 76.86630959,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-309": {
+      "expiry_date": "14-Jun-42",
+      "g": "ttndk51b1y",
+      "km": 44.3229798,
+      "l": [
+        28.53701989,
+        76.81889463
+      ],
+      "manufacture_date": "13-Nov-19",
+      "on_road_since": "1-Feb-20",
+      "soc": 74.616894,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-31": {
+      "expiry_date": "5-Jan-45",
+      "g": "ttnd5p9v3g",
+      "km": 96.6406533,
+      "l": [
+        28.51868041,
+        76.77494897
+      ],
+      "manufacture_date": "12-Nov-19",
+      "on_road_since": "6-Jan-20",
+      "soc": 78.12064428,
+      "vendor": "Qquick"
+    },
+    "VIM-310": {
+      "expiry_date": "24-Sep-41",
+      "g": "ttnew21k0x",
+      "km": 88.85751953,
+      "l": [
+        28.74096005,
+        76.91702969
+      ],
+      "manufacture_date": "24-Oct-19",
+      "on_road_since": "27-Dec-19",
+      "soc": 81.40350638,
+      "vendor": "Vogo"
+    },
+    "VIM-32": {
+      "expiry_date": "27-Oct-44",
+      "g": "ttnfpy548g",
+      "km": 7.401718631,
+      "l": [
+        28.50997143,
+        77.33692527
+      ],
+      "manufacture_date": "31-Aug-19",
+      "on_road_since": "4-Dec-19",
+      "soc": 76.34375064,
+      "vendor": "Bounce Share"
+    },
+    "VIM-33": {
+      "expiry_date": "12-Oct-40",
+      "g": "ttph6b6zeb",
+      "km": 8.80714802,
+      "l": [
+        28.87473155,
+        77.46854703
+      ],
+      "manufacture_date": "12-Aug-19",
+      "on_road_since": "27-Jan-20",
+      "soc": 79.22607205,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-34": {
+      "expiry_date": "18-Jun-43",
+      "g": "ttp53byk58",
+      "km": 86.29765566,
+      "l": [
+        28.70109763,
+        77.42939414
+      ],
+      "manufacture_date": "15-Sep-19",
+      "on_road_since": "2-Dec-19",
+      "soc": 72.18146034,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-35": {
+      "expiry_date": "3-Jan-45",
+      "g": "ttnvmg2nc1",
+      "km": 22.50900565,
+      "l": [
+        29.06686868,
+        77.24492635
+      ],
+      "manufacture_date": "19-Sep-19",
+      "on_road_since": "2-Dec-19",
+      "soc": 71.46365089,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-36": {
+      "expiry_date": "15-Nov-42",
+      "g": "ttngpfgmrb",
+      "km": 37.20265324,
+      "l": [
+        28.6683516,
+        77.33756648
+      ],
+      "manufacture_date": "5-Oct-19",
+      "on_road_since": "24-Jan-20",
+      "soc": 78.12174277,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-37": {
+      "expiry_date": "29-Jul-43",
+      "g": "ttnugc28x7",
+      "km": 30.45304916,
+      "l": [
+        28.96692968,
+        77.15798976
+      ],
+      "manufacture_date": "8-Oct-19",
+      "on_road_since": "12-Jan-20",
+      "soc": 72.45689933,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-38": {
+      "expiry_date": "16-Dec-43",
+      "g": "ttne4b3s1n",
+      "km": 7.466787428,
+      "l": [
+        28.65444081,
+        76.76358412
+      ],
+      "manufacture_date": "20-Dec-19",
+      "on_road_since": "7-Dec-19",
+      "soc": 75.93579372,
+      "vendor": "Vogo"
+    },
+    "VIM-39": {
+      "expiry_date": "13-Sep-44",
+      "g": "ttn9xg53rg",
+      "km": 44.08910496,
+      "l": [
+        28.40538675,
+        76.98600687
+      ],
+      "manufacture_date": "1-Feb-20",
+      "on_road_since": "16-Dec-19",
+      "soc": 76.21344112,
+      "vendor": "Qquick"
+    },
+    "VIM-4": {
+      "expiry_date": "29-May-41",
+      "g": "ttpj0v4z4c",
+      "km": 22.66470107,
+      "l": [
+        29.03258123,
+        77.38060371
+      ],
+      "manufacture_date": "9-Aug-19",
+      "on_road_since": "27-Jan-20",
+      "soc": 72.77445225,
+      "vendor": "Vogo"
+    },
+    "VIM-40": {
+      "expiry_date": "20-Apr-41",
+      "g": "ttpj1vh1jh",
+      "km": 65.0459794,
+      "l": [
+        29.03156959,
+        77.42636327
+      ],
+      "manufacture_date": "2-Aug-19",
+      "on_road_since": "25-Dec-19",
+      "soc": 72.95675361,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-41": {
+      "expiry_date": "12-Nov-40",
+      "g": "ttne6gk034",
+      "km": 84.20527159,
+      "l": [
+        28.71419666,
+        76.76701695
+      ],
+      "manufacture_date": "15-Sep-19",
+      "on_road_since": "21-Jan-20",
+      "soc": 71.21108728,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-42": {
+      "expiry_date": "13-Aug-41",
+      "g": "ttncb3xg28",
+      "km": 54.83913652,
+      "l": [
+        28.44141528,
+        77.01384324
+      ],
+      "manufacture_date": "29-Nov-19",
+      "on_road_since": "11-Jan-20",
+      "soc": 81.66130837,
+      "vendor": "Campus Share"
+    },
+    "VIM-43": {
+      "expiry_date": "3-Nov-43",
+      "g": "ttnu9tr1k2",
+      "km": 26.33997996,
+      "l": [
+        28.94507239,
+        77.06790097
+      ],
+      "manufacture_date": "24-Nov-19",
+      "on_road_since": "30-Jan-20",
+      "soc": 71.99326238,
+      "vendor": "Campus Share"
+    },
+    "VIM-44": {
+      "expiry_date": "24-Sep-42",
+      "g": "ttphd6hw92",
+      "km": 8.777597381,
+      "l": [
+        28.92811935,
+        77.44887091
+      ],
+      "manufacture_date": "28-Aug-19",
+      "on_road_since": "13-Dec-19",
+      "soc": 71.41389794,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-45": {
+      "expiry_date": "22-Mar-43",
+      "g": "ttnuqjbu4q",
+      "km": 30.96986299,
+      "l": [
+        28.90437874,
+        77.25699473
+      ],
+      "manufacture_date": "16-Nov-19",
+      "on_road_since": "21-Dec-19",
+      "soc": 70.27617228,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-46": {
+      "expiry_date": "28-Jan-45",
+      "g": "ttn992wmt4",
+      "km": 0.33763549,
+      "l": [
+        28.39237698,
+        76.70435951
+      ],
+      "manufacture_date": "29-Sep-19",
+      "on_road_since": "4-Dec-19",
+      "soc": 76.85692832,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-47": {
+      "expiry_date": "12-Aug-43",
+      "g": "ttp52zjv82",
+      "km": 18.95281481,
+      "l": [
+        28.73568681,
+        77.38462539
+      ],
+      "manufacture_date": "3-Aug-19",
+      "on_road_since": "12-Jan-20",
+      "soc": 79.58750453,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-48": {
+      "expiry_date": "6-Jan-44",
+      "g": "ttph0yptsp",
+      "km": 57.75094219,
+      "l": [
+        28.86206724,
+        77.38718604
+      ],
+      "manufacture_date": "22-Sep-19",
+      "on_road_since": "22-Dec-19",
+      "soc": 69.01918309,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-49": {
+      "expiry_date": "29-Dec-43",
+      "g": "ttnendvrut",
+      "km": 37.10936223,
+      "l": [
+        28.66880997,
+        76.93368236
+      ],
+      "manufacture_date": "8-Oct-19",
+      "on_road_since": "27-Dec-19",
+      "soc": 77.66216773,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-5": {
+      "expiry_date": "31-Dec-44",
+      "g": "ttndvt076r",
+      "km": 99.21498895,
+      "l": [
+        28.63646225,
+        76.88276813
+      ],
+      "manufacture_date": "18-Sep-19",
+      "on_road_since": "8-Jan-20",
+      "soc": 74.88280012,
+      "vendor": "Bounce Share"
+    },
+    "VIM-50": {
+      "expiry_date": "26-Feb-43",
+      "g": "ttnepcnehz",
+      "km": 33.37287472,
+      "l": [
+        28.6583945,
+        76.99033619
+      ],
+      "manufacture_date": "22-Aug-19",
+      "on_road_since": "1-Feb-20",
+      "soc": 72.85990261,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-51": {
+      "expiry_date": "30-Jan-44",
+      "g": "ttpj1ms3u6",
+      "km": 26.81166207,
+      "l": [
+        29.03443372,
+        77.40470704
+      ],
+      "manufacture_date": "16-Oct-19",
+      "on_road_since": "2-Jan-20",
+      "soc": 75.54380731,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-52": {
+      "expiry_date": "16-Aug-41",
+      "g": "ttnubnz3wx",
+      "km": 57.67830263,
+      "l": [
+        28.9973374,
+        77.00243045
+      ],
+      "manufacture_date": "12-Aug-19",
+      "on_road_since": "9-Dec-19",
+      "soc": 79.66818045,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-53": {
+      "expiry_date": "27-Jan-44",
+      "g": "ttn97jv90g",
+      "km": 25.66955326,
+      "l": [
+        28.37650438,
+        76.78005396
+      ],
+      "manufacture_date": "2-Jan-20",
+      "on_road_since": "24-Dec-19",
+      "soc": 79.90854192,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-54": {
+      "expiry_date": "19-Aug-44",
+      "g": "ttneqkfc72",
+      "km": 35.76590397,
+      "l": [
+        28.72260084,
+        76.91920145
+      ],
+      "manufacture_date": "15-Oct-19",
+      "on_road_since": "13-Jan-20",
+      "soc": 77.20592489,
+      "vendor": "Qquick"
+    },
+    "VIM-55": {
+      "expiry_date": "5-Nov-40",
+      "g": "ttne61hnqp",
+      "km": 43.24626601,
+      "l": [
+        28.70289566,
+        76.73427235
+      ],
+      "manufacture_date": "29-Nov-19",
+      "on_road_since": "10-Jan-20",
+      "soc": 81.65292567,
+      "vendor": "Qquick"
+    },
+    "VIM-56": {
+      "expiry_date": "6-Jan-43",
+      "g": "ttnvh9tyd8",
+      "km": 42.63601055,
+      "l": [
+        29.01326662,
+        77.19794678
+      ],
+      "manufacture_date": "29-Nov-19",
+      "on_road_since": "3-Dec-19",
+      "soc": 75.31894849,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-57": {
+      "expiry_date": "23-Nov-40",
+      "g": "ttng95xppp",
+      "km": 28.91673463,
+      "l": [
+        28.76069964,
+        77.04604674
+      ],
+      "manufacture_date": "26-Nov-19",
+      "on_road_since": "9-Jan-20",
+      "soc": 80.94044746,
+      "vendor": "Vogo"
+    },
+    "VIM-58": {
+      "expiry_date": "11-Feb-44",
+      "g": "ttnfxfdy6e",
+      "km": 10.63426069,
+      "l": [
+        28.5792772,
+        77.33664899
+      ],
+      "manufacture_date": "24-Oct-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 72.29981191,
+      "vendor": "Qquick"
+    },
+    "VIM-59": {
+      "expiry_date": "25-Dec-40",
+      "g": "ttpj2nk73f",
+      "km": 90.95234171,
+      "l": [
+        29.08275394,
+        77.34966594
+      ],
+      "manufacture_date": "26-Sep-19",
+      "on_road_since": "1-Jan-20",
+      "soc": 69.31615743,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-6": {
+      "expiry_date": "2-Apr-43",
+      "g": "ttnennpsd7",
+      "km": 98.74071461,
+      "l": [
+        28.68609267,
+        76.91470003
+      ],
+      "manufacture_date": "3-Oct-19",
+      "on_road_since": "19-Jan-20",
+      "soc": 80.44855355,
+      "vendor": "Vogo"
+    },
+    "VIM-60": {
+      "expiry_date": "10-Feb-41",
+      "g": "ttncxn67fd",
+      "km": 42.20519971,
+      "l": [
+        28.42366306,
+        77.30300739
+      ],
+      "manufacture_date": "27-Jan-20",
+      "on_road_since": "9-Jan-20",
+      "soc": 70.58844584,
+      "vendor": "Campus Share"
+    },
+    "VIM-61": {
+      "expiry_date": "17-May-41",
+      "g": "ttng7n8sjm",
+      "km": 61.44758486,
+      "l": [
+        28.73271024,
+        77.12493735
+      ],
+      "manufacture_date": "7-Aug-19",
+      "on_road_since": "11-Jan-20",
+      "soc": 78.15944495,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-62": {
+      "expiry_date": "16-May-41",
+      "g": "ttngkt59fs",
+      "km": 61.46228091,
+      "l": [
+        28.72408143,
+        77.19486574
+      ],
+      "manufacture_date": "29-Sep-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 78.22371292,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-63": {
+      "expiry_date": "2-Oct-41",
+      "g": "ttne4wf822",
+      "km": 94.07222146,
+      "l": [
+        28.68946975,
+        76.75393363
+      ],
+      "manufacture_date": "16-Nov-19",
+      "on_road_since": "22-Dec-19",
+      "soc": 80.00701025,
+      "vendor": "Qquick"
+    },
+    "VIM-64": {
+      "expiry_date": "29-Jan-45",
+      "g": "ttng8jgxuf",
+      "km": 9.680235956,
+      "l": [
+        28.77316576,
+        76.9972036
+      ],
+      "manufacture_date": "28-Nov-19",
+      "on_road_since": "7-Jan-20",
+      "soc": 78.34003271,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-65": {
+      "expiry_date": "13-Jan-44",
+      "g": "ttnf73usvg",
+      "km": 9.749427092,
+      "l": [
+        28.53095432,
+        77.14143736
+      ],
+      "manufacture_date": "2-Nov-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 70.05164954,
+      "vendor": "Bounce Share"
+    },
+    "VIM-66": {
+      "expiry_date": "26-Oct-43",
+      "g": "ttns9qxzfj",
+      "km": 30.81178201,
+      "l": [
+        28.95308375,
+        76.70629528
+      ],
+      "manufacture_date": "26-Aug-19",
+      "on_road_since": "23-Dec-19",
+      "soc": 69.62818385,
+      "vendor": "Bounce Share"
+    },
+    "VIM-67": {
+      "expiry_date": "12-Apr-44",
+      "g": "ttnfm43xj5",
+      "km": 46.807304,
+      "l": [
+        28.53408717,
+        77.21418907
+      ],
+      "manufacture_date": "5-Aug-19",
+      "on_road_since": "23-Jan-20",
+      "soc": 76.69005243,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-68": {
+      "expiry_date": "2-Feb-43",
+      "g": "ttnf1xxcs9",
+      "km": 53.49499424,
+      "l": [
+        28.5180274,
+        77.06895204
+      ],
+      "manufacture_date": "23-Oct-19",
+      "on_road_since": "21-Jan-20",
+      "soc": 81.67238485,
+      "vendor": "Bounce Share"
+    },
+    "VIM-69": {
+      "expiry_date": "29-Apr-43",
+      "g": "ttp5cbzhvp",
+      "km": 30.15766604,
+      "l": [
+        28.7891562,
+        77.43048338
+      ],
+      "manufacture_date": "15-Oct-19",
+      "on_road_since": "13-Jan-20",
+      "soc": 69.48497854,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-7": {
+      "expiry_date": "16-Dec-41",
+      "g": "ttngqujzx0",
+      "km": 15.01866397,
+      "l": [
+        28.71955223,
+        77.29701645
+      ],
+      "manufacture_date": "30-Nov-19",
+      "on_road_since": "13-Jan-20",
+      "soc": 81.81604162,
+      "vendor": "Vogo"
+    },
+    "VIM-70": {
+      "expiry_date": "5-Mar-44",
+      "g": "ttph77gm56",
+      "km": 15.45809981,
+      "l": [
+        28.89353954,
+        77.49118105
+      ],
+      "manufacture_date": "11-Dec-19",
+      "on_road_since": "14-Jan-20",
+      "soc": 69.17595982,
+      "vendor": "Vogo"
+    },
+    "VIM-71": {
+      "expiry_date": "2-Jan-43",
+      "g": "ttnsmc54cb",
+      "km": 23.79715422,
+      "l": [
+        28.87803888,
+        76.89751526
+      ],
+      "manufacture_date": "12-Dec-19",
+      "on_road_since": "22-Jan-20",
+      "soc": 78.62885259,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-72": {
+      "expiry_date": "16-Aug-43",
+      "g": "ttnu8sx2hn",
+      "km": 93.41504451,
+      "l": [
+        28.94077005,
+        77.02429455
+      ],
+      "manufacture_date": "6-Sep-19",
+      "on_road_since": "16-Jan-20",
+      "soc": 77.95395674,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-73": {
+      "expiry_date": "26-Oct-40",
+      "g": "ttngs3e0h8",
+      "km": 27.01152374,
+      "l": [
+        28.74847858,
+        77.18326929
+      ],
+      "manufacture_date": "5-Oct-19",
+      "on_road_since": "6-Dec-19",
+      "soc": 69.05074198,
+      "vendor": "Campus Share"
+    },
+    "VIM-74": {
+      "expiry_date": "21-Dec-40",
+      "g": "ttph0pqd1q",
+      "km": 80.82927976,
+      "l": [
+        28.86833075,
+        77.35273816
+      ],
+      "manufacture_date": "29-Aug-19",
+      "on_road_since": "28-Dec-19",
+      "soc": 81.11731352,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-75": {
+      "expiry_date": "20-Aug-42",
+      "g": "ttnf9w2zn0",
+      "km": 82.85980945,
+      "l": [
+        28.59999156,
+        77.0594018
+      ],
+      "manufacture_date": "9-Aug-19",
+      "on_road_since": "8-Dec-19",
+      "soc": 70.99672561,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-76": {
+      "expiry_date": "28-Nov-44",
+      "g": "ttnsc6t2f2",
+      "km": 34.27120586,
+      "l": [
+        28.97382737,
+        76.70286752
+      ],
+      "manufacture_date": "19-Aug-19",
+      "on_road_since": "20-Jan-20",
+      "soc": 73.69382224,
+      "vendor": "Campus Share"
+    },
+    "VIM-77": {
+      "expiry_date": "11-Jun-44",
+      "g": "ttndfpyfyk",
+      "km": 48.29137485,
+      "l": [
+        28.65146522,
+        76.73805981
+      ],
+      "manufacture_date": "14-Nov-19",
+      "on_road_since": "23-Jan-20",
+      "soc": 77.16155166,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-78": {
+      "expiry_date": "25-Mar-43",
+      "g": "ttp4fbpu2q",
+      "km": 95.6182567,
+      "l": [
+        28.60916355,
+        77.47525731
+      ],
+      "manufacture_date": "10-Jan-20",
+      "on_road_since": "1-Dec-19",
+      "soc": 70.0996381,
+      "vendor": "Bounce Share"
+    },
+    "VIM-79": {
+      "expiry_date": "29-Oct-42",
+      "g": "ttnf3yrkte",
+      "km": 95.05324174,
+      "l": [
+        28.55563306,
+        77.07929357
+      ],
+      "manufacture_date": "19-Dec-19",
+      "on_road_since": "6-Jan-20",
+      "soc": 76.69453868,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-8": {
+      "expiry_date": "13-Mar-42",
+      "g": "ttn943pxdg",
+      "km": 3.578443214,
+      "l": [
+        28.30758077,
+        76.74992073
+      ],
+      "manufacture_date": "17-Sep-19",
+      "on_road_since": "3-Jan-20",
+      "soc": 72.91757096,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-80": {
+      "expiry_date": "21-Feb-43",
+      "g": "ttph0h725h",
+      "km": 56.45066205,
+      "l": [
+        28.85149629,
+        77.34835148
+      ],
+      "manufacture_date": "2-Sep-19",
+      "on_road_since": "1-Dec-19",
+      "soc": 78.22242997,
+      "vendor": "Bounce Share"
+    },
+    "VIM-81": {
+      "expiry_date": "9-Dec-42",
+      "g": "ttnsept3gc",
+      "km": 43.40790231,
+      "l": [
+        28.95752431,
+        76.77983443
+      ],
+      "manufacture_date": "29-Dec-19",
+      "on_road_since": "20-Jan-20",
+      "soc": 71.20467837,
+      "vendor": "Vogo"
+    },
+    "VIM-82": {
+      "expiry_date": "12-Aug-44",
+      "g": "ttndebzmwe",
+      "km": 85.77976688,
+      "l": [
+        28.56953511,
+        76.81565995
+      ],
+      "manufacture_date": "22-Dec-19",
+      "on_road_since": "28-Jan-20",
+      "soc": 73.99329534,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-83": {
+      "expiry_date": "4-Aug-41",
+      "g": "ttpj3v8nq0",
+      "km": 60.84795038,
+      "l": [
+        29.0791388,
+        77.42091645
+      ],
+      "manufacture_date": "8-Jan-20",
+      "on_road_since": "15-Dec-19",
+      "soc": 77.51023343,
+      "vendor": "Bounce Share"
+    },
+    "VIM-84": {
+      "expiry_date": "16-Jun-43",
+      "g": "ttn91xdjtu",
+      "km": 80.54301299,
+      "l": [
+        28.34294933,
+        76.70954259
+      ],
+      "manufacture_date": "22-Oct-19",
+      "on_road_since": "6-Jan-20",
+      "soc": 80.18895452,
+      "vendor": "Vogo"
+    },
+    "VIM-85": {
+      "expiry_date": "20-Aug-40",
+      "g": "ttngtz90rn",
+      "km": 92.76664132,
+      "l": [
+        28.78151242,
+        77.24655064
+      ],
+      "manufacture_date": "11-Aug-19",
+      "on_road_since": "18-Jan-20",
+      "soc": 78.6142294,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-86": {
+      "expiry_date": "1-May-41",
+      "g": "ttnvryq1hq",
+      "km": 45.26570871,
+      "l": [
+        29.08239081,
+        77.34118936
+      ],
+      "manufacture_date": "1-Jan-20",
+      "on_road_since": "20-Dec-19",
+      "soc": 70.5299972,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-87": {
+      "expiry_date": "9-Dec-44",
+      "g": "ttnu8q4wqt",
+      "km": 87.65275552,
+      "l": [
+        28.9500747,
+        77.00688922
+      ],
+      "manufacture_date": "19-Dec-19",
+      "on_road_since": "28-Dec-19",
+      "soc": 69.28394196,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-88": {
+      "expiry_date": "25-Apr-41",
+      "g": "ttnsm6zj5v",
+      "km": 5.843468265,
+      "l": [
+        28.88806521,
+        76.88111224
+      ],
+      "manufacture_date": "6-Sep-19",
+      "on_road_since": "11-Jan-20",
+      "soc": 78.34113645,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-89": {
+      "expiry_date": "3-Feb-42",
+      "g": "ttnevvst43",
+      "km": 15.27930066,
+      "l": [
+        28.81526094,
+        76.89958902
+      ],
+      "manufacture_date": "9-Jan-20",
+      "on_road_since": "1-Feb-20",
+      "soc": 69.86796761,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-9": {
+      "expiry_date": "2-Jan-44",
+      "g": "ttnt4xvyv1",
+      "km": 67.18285387,
+      "l": [
+        29.04764432,
+        76.75860771
+      ],
+      "manufacture_date": "24-Dec-19",
+      "on_road_since": "8-Jan-20",
+      "soc": 81.36877745,
+      "vendor": "Qquick"
+    },
+    "VIM-90": {
+      "expiry_date": "22-Jan-45",
+      "g": "ttnu13pzz4",
+      "km": 90.15261635,
+      "l": [
+        28.83495988,
+        77.05807113
+      ],
+      "manufacture_date": "4-Dec-19",
+      "on_road_since": "16-Jan-20",
+      "soc": 69.07106812,
+      "vendor": "Campus Share"
+    },
+    "VIM-91": {
+      "expiry_date": "27-Apr-43",
+      "g": "ttnezzrk04",
+      "km": 72.7165254,
+      "l": [
+        28.82470584,
+        76.99116631
+      ],
+      "manufacture_date": "28-Aug-19",
+      "on_road_since": "30-Jan-20",
+      "soc": 75.55320404,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-92": {
+      "expiry_date": "2-Oct-44",
+      "g": "ttnv7y300c",
+      "km": 22.08955711,
+      "l": [
+        29.08219003,
+        77.15839533
+      ],
+      "manufacture_date": "10-Dec-19",
+      "on_road_since": "14-Dec-19",
+      "soc": 77.859641,
+      "vendor": "Vecmocon Technologies"
+    },
+    "VIM-93": {
+      "expiry_date": "9-Jan-41",
+      "g": "ttnuct3c2g",
+      "km": 63.10318909,
+      "l": [
+        28.9890345,
+        77.06054454
+      ],
+      "manufacture_date": "3-Jan-20",
+      "on_road_since": "27-Dec-19",
+      "soc": 77.3452882,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-94": {
+      "expiry_date": "1-Mar-43",
+      "g": "ttnss2c2me",
+      "km": 76.68624951,
+      "l": [
+        28.92019984,
+        76.82935544
+      ],
+      "manufacture_date": "24-Sep-19",
+      "on_road_since": "21-Jan-20",
+      "soc": 76.10904126,
+      "vendor": "Q.Te Bikes"
+    },
+    "VIM-95": {
+      "expiry_date": "4-Jan-45",
+      "g": "ttphcmkb6h",
+      "km": 94.45316752,
+      "l": [
+        28.98886525,
+        77.40529443
+      ],
+      "manufacture_date": "7-Sep-19",
+      "on_road_since": "14-Dec-19",
+      "soc": 73.61705974,
+      "vendor": "Kerala Automotive Limited"
+    },
+    "VIM-96": {
+      "expiry_date": "1-Sep-42",
+      "g": "ttnv4wmunr",
+      "km": 47.1852979,
+      "l": [
+        29.03896334,
+        77.1102218
+      ],
+      "manufacture_date": "16-Sep-19",
+      "on_road_since": "21-Dec-19",
+      "soc": 70.1483335,
+      "vendor": "Napino-Bajaj"
+    },
+    "VIM-97": {
+      "expiry_date": "10-Jul-43",
+      "g": "ttngyq65sp",
+      "km": 37.02409834,
+      "l": [
+        28.8191542,
+        77.26977169
+      ],
+      "manufacture_date": "2-Aug-19",
+      "on_road_since": "7-Jan-20",
+      "soc": 70.4082048,
+      "vendor": "Napino-Hero"
+    },
+    "VIM-98": {
+      "expiry_date": "6-Mar-44",
+      "g": "ttnesjrg5e",
+      "km": 39.16724554,
+      "l": [
+        28.76960695,
+        76.82720999
+      ],
+      "manufacture_date": "13-Aug-19",
+      "on_road_since": "10-Jan-20",
+      "soc": 74.61081798,
+      "vendor": "Evy Mobility"
+    },
+    "VIM-99": {
+      "expiry_date": "5-Feb-41",
+      "g": "ttntkth4rj",
+      "km": 85.75872158,
+      "l": [
+        29.07573401,
+        76.84418286
+      ],
+      "manufacture_date": "5-Nov-19",
+      "on_road_since": "11-Dec-19",
+      "soc": 70.00875434,
+      "vendor": "Napino-Bajaj"
+    }
+  }
