@@ -1,9 +1,8 @@
-import { Commandbar, ZoomControl, Brand } from './controls';
+import { Commandbar, MapControl } from './controls';
 import DataView from './dataviewer';
 
 export {
-    Brand,
     Commandbar,
-    ZoomControl,
+    MapControl,
     DataView
 };
