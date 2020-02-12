@@ -8,14 +8,14 @@ import {
     DockBottomIcon,
     MoonIcon,
     SunIcon
-} from './Icons';
+} from '../Icons';
 
 const DataView = (props) => {
     return (
         <Drawer
             variant="persistent"
             open={props.open}
-            anchor={props.options.Dock}
+            anchor={props.dock}
         >
             <Toolbar>
                 <IconButton><PinIcon /></IconButton>
