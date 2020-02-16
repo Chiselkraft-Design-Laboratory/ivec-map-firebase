@@ -1,26 +1,12 @@
 import React, { Component } from 'react';
-import { AppBar, Toolbar, Grid, withStyles } from '@material-ui/core';
-import CssBaseline from '@material-ui/core/CssBaseline';
-
 import { withFirebase } from './Firebase';
-import { GoogleApiWrapper, Map } from 'google-maps-react';
 import * as UI from './UI';
+import * as IvecMap from './IvecMap';
+import CssBaseline from '@material-ui/core/CssBaseline';
+import { Grid } from '@material-ui/core';
 
 
 
-const styles = theme => ({
-  push: {
-    flexGrow: 1 
-  },
-  appbar: {
-    backgroundColor: 'transparent',
-    paddingTop: theme.spacing(3),
-  },
-  zoomgrid: {
-    height: '100vh',
-    paddingBottom: theme.spacing(3)
-  }
-});
 const zoomLimit = { min: 6, max: 18 };
 
 
@@ -29,6 +15,8 @@ class IvecConsole extends Component {
   constructor(props) {
     super(props);
     this.state = {
+      darkMode: false,
+
       controlDock: 'left',
 
       panelDock: 'right',
@@ -36,7 +24,7 @@ class IvecConsole extends Component {
       panelOpen: false,
       panelSize: 340,
       
-      mapZoom: 12,
+      mapZoom: 13,
       mapCenter: { lat: 28.57817, lng: 77.20983 },
       
       showFleet: true,
@@ -44,6 +32,7 @@ class IvecConsole extends Component {
       showServiceStations: false,
       showSearch: false,      
     };
+    this.toggleDarkMode = this.toggleDarkMode.bind(this);
     this.toggleFleet = this.toggleFleet.bind(this);
     this.toggleChargeStations = this.toggleChargeStations.bind(this);
     this.toggleServiceStations = this.toggleServiceStations.bind(this);
@@ -56,33 +45,50 @@ class IvecConsole extends Component {
 
   componentDidMount() { }
   componentWillUnmount() { }
-  
+  // toggle darkmode
+  toggleDarkMode() {
+    this.setState(prevState => ({ 
+      darkMode: !prevState.darkMode
+     })); 
+  }
   // map marker toggle
   toggleFleet() {
-      this.setState(prevState => ({ showFleet: !prevState.showFleet })); 
+    this.setState(prevState => ({
+      showFleet: !prevState.showFleet
+    })); 
   }
   toggleChargeStations() {
-      this.setState(prevState => ({ showChargeStations: !prevState.showChargeStations })); 
+    this.setState(prevState => ({
+      showChargeStations: !prevState.showChargeStations
+    })); 
   }
   toggleServiceStations() {
-      this.setState(prevState => ({ showServiceStations: !prevState.showServiceStations })); 
+    this.setState(prevState => ({
+      showServiceStations: !prevState.showServiceStations
+    })); 
   }
 
   // search toggle
   toggleSearch() {
-      this.setState(prevState => ({ showSearch: !prevState.showSearch })); 
+    this.setState(prevState => ({
+      showSearch: !prevState.showSearch
+    })); 
   }
 
   // zoom functions
-  handleFitExtent() { }
+  handleFitExtent() { this.toggleDarkMode(); }
   handleZoomIn() {
     if (this.state.mapZoom < zoomLimit.max) {
-      this.setState(prevState => ({ mapZoom: prevState.mapZoom + 1 }));
+      this.setState(prevState => ({
+        mapZoom: prevState.mapZoom + 1
+      }));
     }
   }
   handleZoomOut() {
     if (this.state.mapZoom > zoomLimit.min) {
-      this.setState(prevState => ({ mapZoom: prevState.mapZoom - 1 }));
+      this.setState(prevState => ({
+        mapZoom: prevState.mapZoom - 1
+      }));
     }
   }
 
@@ -92,69 +98,48 @@ class IvecConsole extends Component {
 
   
   render() {
-
-    const { classes } = this.props;
     console.log(this.state);
     
     return (
-      <React.Fragment>
+        <UI.Theme darkmode={this.state.darkMode}>
         <CssBaseline />
 
-        <AppBar
-          variant="elevation"
-          position="fixed"
-          component="nav"
-          elevation={0}
-          className={classes.appbar}
-        >
-          <Toolbar>
-            {this.state.dockControl==='right' ? <div className={classes.push} /> : null}
-            <UI.Commandbar
-            showFleet={this.state.showFleet}
-            showChargeStations={this.state.showChargeStations}
-            showServiceStations={this.state.showServiceStations}
-            toggleFleet={this.toggleFleet}
-            toggleChargeStations={this.toggleChargeStations}
-            toggleServiceStations={this.toggleServiceStations}
-            toggleSearch={this.toggleSearch} />
-          </Toolbar>
-        </AppBar>
-                
+        <UI.Commandbar
+          dock={this.state.controlDock}
+          showFleet={this.state.showFleet}
+          showChargeStations={this.state.showChargeStations}
+          showServiceStations={this.state.showServiceStations}
+          showSearch={this.state.showSearch}
+          toggleFleet={this.toggleFleet}
+          toggleChargeStations={this.toggleChargeStations}
+          toggleServiceStations={this.toggleServiceStations}
+          toggleSearch={this.toggleSearch}
+        />
+
+        
         <Grid component="section" >
-          <Map
-            google={this.props.google}
-            initialCenter={this.state.mapCenter}
-            zoom={this.state.mapZoom}
-            disableDefaultUI={true}
-          >
-          </Map>
+          <IvecMap.View
+            mapCenter={this.state.mapCenter}
+            mapZoom={this.state.mapZoom}
+            darkMode={this.state.darkMode}
+          />
         </Grid>
        
-        <Grid component="footer" 
-          container
-          direction="column"
-          justify="flex-end"
-          alignItems="flex-end"
-          className={classes.zoomgrid}
-        >
-            <UI.ZoomControl
-              onFitExtent={this.handleFitExtent}
-              onZoomIn={this.handleZoomIn}
-              onZoomOut={this.handleZoomOut} 
-            />
-        </Grid>
-        
+        <UI.ZoomControl
+          onFitExtent={this.handleFitExtent}
+          onZoomIn={this.handleZoomIn}
+          onZoomOut={this.handleZoomOut} 
+        />
+
         <UI.DataView
+          darkMode={this.state.darkMode}
           open={this.state.panelOpen}
           dock={this.state.panelDock}
           size={this.state.panelSize}
         />
-        
-      </React.Fragment>
+      </UI.Theme>
     );
   }
 }
 
-export default GoogleApiWrapper(
-  { apiKey: process.env.REACT_APP_GOOGLEMAP_APIKEY }
-)(withFirebase(withStyles(styles)(IvecConsole)));
+export default withFirebase(IvecConsole);

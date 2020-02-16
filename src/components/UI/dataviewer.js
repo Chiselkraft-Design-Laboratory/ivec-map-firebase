@@ -13,6 +13,7 @@ import {
 const DataView = (props) => {
     return (
         <Drawer
+            id="datapanel"
             variant="persistent"
             open={props.open}
             anchor={props.dock}
