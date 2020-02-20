@@ -1,8 +1,9 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 import {
     AppBar, Button, ButtonGroup,
-    makeStyles, Paper, Toolbar,
+    makeStyles, Menu, MenuItem,
+    Paper, Toolbar,
     Typography, useTheme
 } from '@material-ui/core';
 
@@ -35,6 +36,21 @@ const Commandbar = (props) => {
     const highlight = useTheme().palette.success.main;
     const cl = useStyles();
     
+    const [anchorCitiesEl, setAnchorCitiesEl] = useState(null);
+    const [selectedCity, setSelectedCity] = useState(0);
+
+    const handleOpenCities = event => {
+        setAnchorCitiesEl(event.currentTarget);
+    }
+    const handleCloseCities = () => {
+        setAnchorCitiesEl(null);
+    }
+    const handleSelectCity = (event, index) => {
+        setSelectedCity(index);
+        setAnchorCitiesEl(null);
+        props.changeCity(index);
+    }
+
     return (
         <AppBar
             variant="elevation"
@@ -53,9 +69,15 @@ const Commandbar = (props) => {
                         </Button>
 
                         <Button 
-                        startIcon={<CityIcon size="small" fill={fill}/>} 
-                        className={cl.btnIcon}>
-                            <Typography className={cl.cityText}>Delhi</Typography>
+                            startIcon={<CityIcon size="small" fill={fill}/>} 
+                            className={cl.btnIcon}
+                            aria-haspopup="true"
+                            aria-controls="menuCities"
+                            onClick={handleOpenCities}
+                        >
+                            <Typography className={cl.cityText}>
+                                {props.cities[selectedCity]}
+                            </Typography>
                         </Button>
 
                         <Button className={cl.btnIcon}
@@ -79,6 +101,28 @@ const Commandbar = (props) => {
                         </Button>
                     
                     </ButtonGroup>
+                    
+                    <Menu
+                        id="menuCities"
+                        anchorEl={anchorCitiesEl}
+                        keepMounted
+                        open={Boolean(anchorCitiesEl)}
+                        onClose={handleCloseCities}
+                    >
+                        {
+                            props.cities.map((city, index) => (
+                                <MenuItem
+                                    key={city}
+                                    disabled={index === selectedCity}
+                                    selected={index === selectedCity}
+                                    onClick={event => handleSelectCity(event, index)}
+                                >
+                                    {city}
+                                </MenuItem>
+                            ))
+                        }
+                    </Menu>
+
                 </Paper>
             </Toolbar>
         </AppBar>
