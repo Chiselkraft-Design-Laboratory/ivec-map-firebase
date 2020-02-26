@@ -1,0 +1,48 @@
+{
+    "SRV348-219": {
+        "vendor": "VECMOCON INC",
+        "l": [28.57817, 77.20983],
+        "status": "open"
+    },
+    "SRV658-216": {
+        "vendor": "NAPINO",
+        "l": [28.62128, 77.24004],
+        "status": "closed"
+    },
+    "SRV745-692": {
+        "vendor": "EVY PRIORITY",
+        "l": [28.638, 77.27557],
+        "status": "open"
+    },
+    "SRV-258": {
+        "l": [
+            28.33048997,
+            76.93347058
+        ],
+        "vendor": "Q.Te Bikes",
+        "status": "open"
+    },
+    "SRV-29": {
+        "l": [
+            28.86016785,
+            77.13259376
+        ],
+        "vendor": "Evy Mobility",
+        "status": "open"
+    },
+    "SRV-290": {
+        "l": [
+            29.0170545,
+            77.48378829
+        ],
+        "vendor": "Evy Mobility",
+        "status": "open"
+      },
+      "SRV-36": {
+        "l": [
+          28.6683516,
+          77.33756648
+        ],
+        "vendor": "Kerala Automotive Limited"
+      }
+}
