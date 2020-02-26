@@ -1,7 +1,13 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import IvecConsole from './components/App';
-import * as serviceWorker from './serviceWorker';
+import React from "react";
+import ReactDOM from "react-dom";
+import Firebase, { IvecDataContext } from "./components/IvecData";
+import IvecConsole from "./components/App";
+import * as serviceWorker from "./serviceWorker";
 
-ReactDOM.render(<IvecConsole />, document.getElementById('root'));
+ReactDOM.render(
+  <IvecDataContext.Provider value={new Firebase()}>
+    <IvecConsole />
+  </IvecDataContext.Provider>,
+  document.getElementById("root")
+);
 serviceWorker.unregister();
