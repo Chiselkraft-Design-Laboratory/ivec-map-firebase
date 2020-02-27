@@ -1,5 +1,8 @@
 import React, { Component } from "react";
+import { CssBaseline } from "@material-ui/core";
+
 import { withIvecData } from "./IvecData";
+import CrayonUI from "./CrayonUI";
 
 class IvecConsole extends Component {
   constructor(props) {
@@ -19,7 +22,13 @@ class IvecConsole extends Component {
     console.log(this.props.dummies.ServiceStations);
     console.log(this.props.dummies.Fleet);
 
-    return null;
+    return (
+      <React.Fragment>
+        <CrayonUI dark={this.state.darkmode}>
+          <CssBaseline />
+        </CrayonUI>
+      </React.Fragment>
+    );
   }
 }
 
