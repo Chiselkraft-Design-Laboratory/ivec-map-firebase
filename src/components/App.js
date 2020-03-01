@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { CssBaseline } from "@material-ui/core";
 
+import { OmniZoomControl } from "./Omnibox";
 import { withIvecData } from "./IvecData";
 import CrayonUI from "./CrayonUI";
 
@@ -11,21 +12,13 @@ class IvecConsole extends Component {
       darkmode: true
     };
   }
-  componentDidMount() {
-    this.props.firebase.devices().on("value", snapshot => {
-      console.log(snapshot.val());
-    });
-  }
+  componentDidMount() {}
   render() {
-    console.log(this.props.dummies.Cities);
-    console.log(this.props.dummies.ChargeStations);
-    console.log(this.props.dummies.ServiceStations);
-    console.log(this.props.dummies.Fleet);
-
     return (
       <React.Fragment>
         <CrayonUI dark={this.state.darkmode}>
           <CssBaseline />
+          <OmniZoomControl />
         </CrayonUI>
       </React.Fragment>
     );
