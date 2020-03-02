@@ -1,10 +1,10 @@
 import React from "react";
 import pure from "recompose/pure";
 
-let ZoomInIcon = props => (
+let VecmoconIcon = props => (
   <svg
     version="1.1"
-    id="zoomin-icon"
+    id="vecmocon-icon"
     viewBox="0 0 24 24"
     x="0"
     y="0"
@@ -14,13 +14,13 @@ let ZoomInIcon = props => (
   >
     <path
       fill={props.color || "#616161"}
-      d="M19 11h-6V5h-2v6H5v2h6v6h2v-6h6z"
+      d="M16.42 1.33l-3.99 6.58 1.32 2.17 3.89-6.48h.86l-4.75 7.9L7.58 1.33H0l12 21.34L24 1.33z"
     />
     <path fill="rgba(0, 0, 0, 0)" d="M0 0h24v24H0z" />
   </svg>
 );
-ZoomInIcon = pure(ZoomInIcon);
-ZoomInIcon.displayName = "ZoomInIcon";
-ZoomInIcon.muiName = "SvgIcon";
+VecmoconIcon = pure(VecmoconIcon);
+VecmoconIcon.displayName = "VecmoconIcon";
+VecmoconIcon.muiName = "SvgIcon";
 
-export default ZoomInIcon;
+export default VecmoconIcon;

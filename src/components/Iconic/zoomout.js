@@ -4,7 +4,7 @@ import pure from "recompose/pure";
 let ZoomOutIcon = props => (
   <svg
     version="1.1"
-    id="zoomplus-icon"
+    id="zoomout-icon"
     viewBox="0 0 24 24"
     x="0"
     y="0"

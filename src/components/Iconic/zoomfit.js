@@ -4,7 +4,7 @@ import pure from "recompose/pure";
 let ZoomFitIcon = props => (
   <svg
     version="1.1"
-    id="zoomplus-icon"
+    id="zoomfit-icon"
     viewBox="0 0 24 24"
     x="0"
     y="0"
