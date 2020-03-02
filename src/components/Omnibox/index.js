@@ -1,3 +1,4 @@
 import OmniZoomControl from "./zoomcontrol";
+import OmniSearchBar from "./searchbar";
 
-export { OmniZoomControl };
+export { OmniSearchBar, OmniZoomControl };
