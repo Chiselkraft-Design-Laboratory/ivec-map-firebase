@@ -1,5 +1,5 @@
 import React from "react";
-import { IvecIcon, SearchIcon } from "../Iconic";
+import { IvecIcon, SearchIcon, MarkerIcon } from "../Iconic";
 import {
   ButtonBase,
   Divider,
@@ -38,6 +38,10 @@ const OmniSearchBar = () => {
       />
       <ButtonBase className={classes.btnmenu}>
         <SearchIcon />
+      </ButtonBase>
+      <Divider orientation="vertical" />
+      <ButtonBase className={classes.btnmenu}>
+        <MarkerIcon color="#FE5F55" />
       </ButtonBase>
     </Paper>
   );

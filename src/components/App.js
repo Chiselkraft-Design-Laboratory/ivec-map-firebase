@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { CssBaseline, Grid, withStyles } from "@material-ui/core";
 
-import { OmniZoomControl, OmniSearchBar } from "./Omnibox";
+import { OmniZoomControl, OmniSearchBar, OmniPinControl } from "./Omnibox";
 import { withIvecData } from "./IvecData";
 import CrayonUI from "./CrayonUI";
 
@@ -24,7 +24,7 @@ class IvecConsole extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      darkmode: true
+      darkmode: false
     };
   }
   componentDidMount() {}
@@ -38,6 +38,9 @@ class IvecConsole extends Component {
           <Grid container className={classes.root}>
             <Grid item xs={12}>
               <OmniSearchBar />
+            </Grid>
+            <Grid item xs={12}>
+              <OmniPinControl />
             </Grid>
           </Grid>
         </CrayonUI>
