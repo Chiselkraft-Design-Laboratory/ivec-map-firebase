@@ -12,7 +12,10 @@ import ServiceIcon from "./service";
 import ChargeIcon from "./chargestation";
 import ScooterIcon from "./scooter";
 
+import DownArrowIcon from "./downarrow";
+
 export { ZoomInIcon, ZoomOutIcon, ZoomFitIcon };
 export { IvecIcon, VecmoconIcon };
 export { SearchIcon };
 export { CityIcon, ServiceIcon, ChargeIcon, ScooterIcon };
+export { DownArrowIcon };
