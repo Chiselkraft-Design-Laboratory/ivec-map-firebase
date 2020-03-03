@@ -9,8 +9,9 @@ import SearchIcon from "./search";
 
 import CityIcon from "./city";
 import ServiceIcon from "./service";
+import ChargeIcon from "./chargestation";
 
 export { ZoomInIcon, ZoomOutIcon, ZoomFitIcon };
 export { IvecIcon, VecmoconIcon };
 export { SearchIcon };
-export { CityIcon, ServiceIcon };
+export { CityIcon, ServiceIcon, ChargeIcon };
